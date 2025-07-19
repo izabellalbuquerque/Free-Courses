@@ -28,6 +28,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [Chatbots](#chatbots)
 - [Ciência de Dados](#ciência-de-dados)
 - [Cibersegurança](#cibersegurança)
+- [Cloud / AWS](#cloud--aws)
 - [Design de Jogos](#design-de-jogos)
 - [Engenharia de Software](#engenharia-de-software)
 - [Estruturas de Dados](#estruturas-de-dados)
@@ -39,7 +40,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [Gravação de Macros](#gravação-de-macros)
 - [Hardware](#hardware)
 - [HTML, CSS e JavaScript (Front-end)](#html-css-e-javascript-front-end)
-- [Implementação de Bancos de Dados](#implementação-de-bancos-de-dados)
+- [Idiomas](#idiomas)
 - [Inteligência Artificial](#inteligência-artificial)
 - [Introdução à IA Generativa](#introdução-à-ia-generativa)
 - [Java](#java)
@@ -55,11 +56,13 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [Power BI](#power-bi)
 - [Projeto de Interface Gráfica com Python](#projeto-de-interface-gráfica-com-python)
 - [Python (Back-end)](#python-back-end)
+- [React](#react)
 - [Redes](#redes)
 - [Ruby](#ruby)
 - [Soluções de IA no GitHub](#soluções-de-ia-no-github)
 - [SQL](#sql)
 - [Swift (iOS)](#swift-ios)
+- [Testes / Automação de Testes](#testes--automação-de-testes)
 - [TypeScript](#typescript)
 - [UX e UI Design](#ux-e-ui-design)
 - [Word](#word)
@@ -125,6 +128,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 |----------|---------------|------|-----------|
 | FGV | Introdução à Ciência de Dados | [Link](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ciencia-de-dados?utm_source=fgvnoticias&utm_medium=referral&utm_campaign=ide_ocw_referral&utm_content=cursosgratuitos_fgvnoticias) | Compreenda o que é Ciência de Dados, suas principais etapas e os recursos matemáticos e computacionais usados em cada fase. |
 | Santander Open Academy | Ciência de Dados | [Link](https://santanderopenacademy.com/pt_br/courses/introduction-to-data-science.html) | Entenda o valor da ciência de dados nos negócios, o papel do Big Data, e por que a qualidade dos dados faz toda a diferença. |
+| EuCapacito | Ciência de Dados | [Link](https://eucapacito.com.br/cursos/ciencia-de-dados)| Você vai explorar todo o ciclo de análise: da coleta à visualização, usando SQL, Python, Pandas e Plotly com dados do governo. |
 
 ## Cibersegurança
 
@@ -146,6 +150,13 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Cisco Networking Academy | Ethical Hacker | [Link](https://netacad.com/pt/courses/ethical-hacker?courseLang=en-US) | Aprenda segurança ofensiva para descobrir ameaças e vulnerabilidades cibernéticas. |
 | Santander/Coursera | Data and Cybersecurity | [Link](https://app.santanderopenacademy.com/pt-BR/program/coursera-data-and-cybersecurity) | Aprofunde-se em Ciência de Dados e Segurança Cibernética com 2.000 vagas gratuitas oferecidas pelo Santander em parceria com a Coursera. |
 
+## Cloud / AWS
+
+| Provedor | Nome do Curso | Link | Descrição |
+|----------|---------------|------|-----------|
+| Ginead | AWS e Laravel - Configurando um servidor EC2 Amazon | [Link](https://ginead.com.br/curso/curso-aws-e-laravel-configurando-um-servidor-ec2-amazon)| Você vai aprender a configurar um servidor AWS com LAMP e usar Laravel com banco de dados.|
+| Udemy | Guia de certificações AWS - Cloud Practitioner e Architect | [Link](https://udemy.com/course/curso-base-gratuito-certificacoes-aws-clf-c02-e-saa-c03-pt-br/) | Você vai aprender os conceitos das certificações AWS, conhecer serviços essenciais, aplicar dicas de estudo e praticar com questões comentadas.|
+
 ## Design de Jogos
 
 | Provedor | Nome do Curso | Link | Descrição |
@@ -160,6 +171,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Unicamp | Arquitetura da Informação e Projeto de Sistemas | [Link](https://moocs.ggte.unicamp.br/course/arquiteturadainformacao/intro) | Curso gratuito da Unicamp sobre arquitetura da informação e projeto de sistemas. |
 | Unicamp | Boas Práticas em Desenvolvimento de Software | [Link](https://moocs.ggte.unicamp.br/course/boas-praticas-em-desenvolimento-de-software/intro) | Curso gratuito da Unicamp sobre boas práticas em desenvolvimento de software. |
 | Estudar Fora | Ciência da Computação de Harvard - CC50 | [Link](https://paginas.estudarfora.org.br/cc50-v2) | Aprenda lógica e resolução de problemas, algoritmos e estruturas de dados, programação com C, Python, SQL, JS, HTML e CSS, além de engenharia de software e segurança. |
+
 
 ## Estruturas de Dados
 
@@ -232,12 +244,15 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | EuCapacito | Lógica com JavaScript | [Link](https://eucapacito.com.br/cursos/logica-com-javascript/) | Aprenda a usar variáveis, condicionais e loops para resolver problemas do dia a dia, ganhando confiança na lógica e na sintaxe da linguagem. |
 | Unicamp | JavaScript: Conceitos e Bibliotecas | [Link](https://moocs.ggte.unicamp.br/course/javascript-conceitos-e-bibliotecas/intro) | Curso gratuito da Unicamp sobre conceitos e bibliotecas de JavaScript. |
 | GINEAD | HTML5 | [Link](https://www.ginead.com.br/curso/curso-online-gratuito-html5) | Você vai aprender os fundamentos do HTML5, novos elementos, mídia (áudio e vídeo), tipos de links, menus, além de uma introdução ao CSS3. |
+| Udemy | HTML5, CSS3 e JavaScript na prática | [Link](https://udemy.com/course/html5-css3-e-javascript-na-pratica-3-projetos/)| Você vai aprimorar suas habilidades em HTML5, CSS3 e JavaScript puro por meio da criação de dois projetos: um portfólio pessoal e um conversor de moedas. |
 
-## Implementação de Bancos de Dados
+## Idiomas
 
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
-| Fundação Bradesco | Implementando Banco de Dados | [Link](https://ev.org.br/cursos/implementando-banco-de-dados) | Aprenda sobre implementação de banco de dados com SQL Server, modelagem de dados e os níveis conceitual, lógico e físico. |
+| Ginead | Inglês Intermediário | [Link](https://ginead.com.br/curso/curso-de-ingles-intermediario-online-gratis)| Você vai aprender sobre rotinas diárias em inglês, uso do Present Simple, verbos de rotina, WH-questions, advérbios de frequência, como falar as horas e o verbo to be. |
+| Ginead | Espanhol Intermediário | [Link](https://ginead.com.br/curso/curso-de-espanhol-intermediario)| Você vai aprender vocabulário, gramática e expressões em espanhol por meio de verbos comuns do dia a dia, aprimorando sua comunicação em diferentes situações. |
+
 
 ## Inteligência Artificial
 
@@ -262,6 +277,8 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 |----------|---------------|------|-----------|
 | GINEAD | Linguagem Java | [Link](https://ginead.com.br/curso/curso-gratuito-de-linguagem-java) | Aprenda os fundamentos do Java: instalação, classes, objetos, herança, métodos e boas práticas na construção de programas. |
 | Coursera | Ciência da Computação: Programação com um Propósito | [Link](https://coursera.org/learn/cs-programming-java) | Aprenda os conceitos básicos de programação em Java e como aplicar a computação para resolver problemas em diferentes áreas. |
+| Udemy | Java para Iniciantes - Fundamentos, POO e Projeto | [Link](https://udemy.com/course/java-para-iniciantes-fundamentos-poo-e-projeto/)| Você vai aprender a instalar Java, criar seu primeiro programa, usar condicionais, loops e programação orientada a objetos para desenvolver projetos. |
+| Udemy | Java - Mini curso para iniciantes| [Link](https://udemy.com/course/java-mini-curso-para-iniciantes/)| Você vai aprender orientação a objetos em Java, usar o IntelliJ, criar classes e métodos, e trabalhar com variáveis, operadores e exceções. |
 
 ## Kotlin (Android)
 
@@ -293,6 +310,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 |----------|---------------|------|-----------|
 | FGV | Linguagem R: Introdução à Programação e Automação | [Link](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/linguagem-r-introducao-programacao-e-automacao) | Aprenda comandos de análise univariada em R e entenda o impacto das tecnologias disruptivas, assim como seus desafios de regulação. |
 | FGV | Produção de Gráficos Utilizando a Biblioteca ggplot2 | [Link](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/producao-de-graficos-utilizando-biblioteca-ggplot2) | Entenda as funções do R, explore gráficos estáticos com ggplot2 e compreenda a gramática de gráficos em diferentes ferramentas. |
+| Udemy | Estatística Computacional com o R | [Link](https://udemy.com/course/estatistica-computacional-com-o-r/)| Você vai aprender sobre distribuições estatísticas, interpretação de gráficos, testes de hipótese, correlação de dados e regressão linear. |
 
 ## Lógica de Programação e Algoritmos
 
@@ -303,6 +321,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Curso de Lógica de Programação | [Link](https://www.udemy.com/course/curso-gratuito-de-logica-de-programacao/) | Aprenda fundamentos de lógica, algoritmos, variáveis e estruturas de controle para começar a programar em qualquer linguagem. |
 | YouTube | Curso de Algoritmos e Lógica de Programação Completo | [Link](https://www.youtube.com/watch?v=epLXNg4wb6s&list=PLWW8e8W-7y8ItzYGR1uaq1SVkdZr_ntfI) | Curso abrangente sobre algoritmos e lógica de programação pelo Professor Ricardo Ribeiro, cobrindo VisualG e linguagens como Java, JavaScript, Python, C, C++, C# e PHP. |
 | EuCapacito | Learn to Program | [Link](https://eucapacito.com.br/cursos/learn-to-program/) | Aprenda os fundamentos da programação: lógica, algoritmos, variáveis, operadores, estruturas de repetição e como criar soluções por meio de projetos práticos. |
+| Udemy | Lógica de Programação | [Link](https://udemy.com/course/curso-gratuito-de-logica-de-programacao/)| Você vai aprender os fundamentos básicos da lógica de programação para iniciar ou aprimorar suas habilidades em qualquer linguagem. |
 
 ## Machine Learning
 
@@ -360,6 +379,13 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Santander Open Academy | Introdução à Programação com Python | [Link](https://www.santanderopenacademy.com/pt_br/courses/introduction_to_python_programming.html) | Introdução à programação com Python. |
 | LinkedIn | Curso de Python | [Link](https://www.linkedin.com/posts/humbertozanetti_python-cursogratuito-programaaexaeto-activity-7247226250052747265-9bRs?utm_source=share&utm_medium=member_ios) | Curso de programação em Python. |
 | EuCapacito | Python Web | [Link](https://eucapacito.com.br/cursos/python-web/) | Crie uma aplicação back-end usando Python e o framework Django, consuma a API da animação Avatar e exiba os dados em uma tela com paginação usando Bootstrap. |
+| Udemy | Python para Iniciantes - Aprenda do Zero | [Link](https://udemy.com/course/python-basico-para-iniciantes/)| Você vai aprender os fundamentos de Python, incluindo variáveis, estruturas de decisão e repetição, listas, funções, módulos e pacotes. |
+
+## React
+
+| Provedor | Nome do Curso | Link | Descrição |
+|----------|---------------|------|-----------|
+| Udemy | React JS Para Iniciantes - Com exercícios e Projeto | [Link](https://udemy.com/course/react-js-para-iniciantes-com-exercicios-e-projeto/)| Você vai aprender os fundamentos do React JS, como JSX, componentes, hooks (useState e useEffect), estrutura de projetos com Vite e boas práticas. |
 
 ## Redes
 
@@ -391,6 +417,9 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | SQL para Análise de Dados: Do Básico ao Avançado | [Link](https://udemy.com/course/sql-para-analise-de-dados/?couponCode=UPGRADE02223) | Aprenda a analisar bancos de dados de negócio com SQL por meio de exercícios e projetos com quem trabalha com isso! |
 | Cursa | Banco de Dados SQL Server Passo a Passo | [Link](https://cursa.app/pt/curso-gratuito/banco-de-dados-sql-server-passo-a-passo-dgib) | Instale, modele e administre bancos de dados, crie tabelas, consultas SQL, funções, índices e transações. Ideal para iniciantes e avançados. |
 | GINEAD | Administração de PostgreSQL | [Link](https://www.ginead.com.br/curso/curso-de-administracao-de-postgresql) | Aprenda a instalar e configurar bancos de dados em Linux, gerenciar usuários, permissões, backups, otimização, monitoramento e manter o ambiente seguro e eficiente. |
+| Udemy | Introdução a banco de dados com MySQL & PHPMyAdmin | [Link](https://udemy.com/course/mysql_phpmyadmin/)| Você vai aprender SQL básico usando o banco de dados MySQL e a ferramenta online PHPMyAdmin.|
+| Udemy| SQL de cada dia | [Link](https://udemy.com/course/sql-de-cada-dia/)| Você vai aprender a manipular bancos de dados relacionais usando SQL, com teoria e prática em um projeto.|
+| Fundação Bradesco | Implementando Banco de Dados | [Link](https://ev.org.br/cursos/implementando-banco-de-dados) | Aprenda sobre implementação de banco de dados com SQL Server, modelagem de dados e os níveis conceitual, lógico e físico. |
 
 ## Swift (iOS)
 
@@ -400,6 +429,13 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | GitHub | Conteúdos para Aprender Swift | [Link](https://github.com/CodandoApple/aprenda-swift) | Recursos para aprender Swift de forma eficaz. |
 | Udemy | Aprendendo Swift do Iniciante ao Avançado | [Link](https://www.udemy.com/course/aprendendoswift3/) | Curso de Swift para iniciantes a avançados, compatível com Mac e Windows. |
 | Udemy | Cursos Gratuitos de Swift | [Link](https://www.udemy.com/pt/topic/swift/free/) | Cursos e tutoriais gratuitos de Swift. |
+
+
+## Testes / Automação de Testes
+
+| Provedor | Nome do Curso | Link | Descrição |
+|----------|---------------|------|-----------|
+| Udemy | Selenium e Java com Visual Studio Code | [Link](https://udemy.com/course/selenium-e-java-no-visual-studio-code/)| Você vai aprender a criar testes automatizados em Java usando Selenium e JUnit 5, configurando o ambiente e aplicando boas práticas de código. |
 
 ## TypeScript
 
@@ -414,6 +450,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | Unicamp | UX e UI Design | [Link](https://moocs.ggte.unicamp.br/course/ux-e-ui-design/intro) | Curso gratuito da Unicamp sobre UX e UI Design. |
+| Udemy | UX para quem (ainda) não é de UX | [Link](https://www.udemy.com/course/ux-para-quem-ainda-nao-e-de-ux/)| Você vai aprender os fundamentos de UX, perfil do profissional da área, tipos de pesquisa com usuários, criação de personas e jornadas, ideação, prototipagem e testes de usabilidade.|
 
 ## Word
 
