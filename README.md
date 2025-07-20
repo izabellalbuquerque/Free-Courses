@@ -41,7 +41,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [HTML, CSS e JavaScript (Front-end)](#html-css-e-javascript-front-end)
 - [Idiomas](#idiomas)
 - [Inteligência Artificial](#inteligência-artificial)
-- [Introdução à IA Generativa](#introdução-à-ia-generativa)
+- [IA Generativa](#ia-generativa)
 - [Java](#java)
 - [Kotlin (Android)](#kotlin-android)
 - [Laravel](#laravel)
@@ -259,7 +259,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Escola Conquer | Curso de IA | [Link](https://escolaconquer.com.br/inteligencia-artificial/) | Curso de IA para aplicações práticas. |
 | YouTube | Curso de Inteligência Artificial | [Link](https://youtube.com/playlist?list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&si=6MWPjip7G-rd0Ocx) | Playlist de vídeos gratuita sobre IA pelo Gustavo Guanabara. |
 
-## Introdução à IA Generativa
+## IA Generativa
 
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
