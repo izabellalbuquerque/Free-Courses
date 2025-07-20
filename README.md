@@ -21,7 +21,6 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [Análise de Dados Multivariada](#análise-de-dados-multivariada)
 - [Android](#android)
 - [AngularJS](#angularjs)
-- [Álgebra Linear e Ciência de Dados](#álgebra-linear-e-ciência-de-dados)
 - [Business Intelligence](#business-intelligence)
 - [C#](#c)
 - [C++](#c-1)
@@ -85,12 +84,6 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 |----------|---------------|------|-----------|
 | Unicamp | Desenvolvimento Web com AngularJS | [Link](https://moocs.ggte.unicamp.br/course/desenvolvimento-web-com-angularjs/intro) | Curso gratuito da Unicamp sobre desenvolvimento web com AngularJS. |
 
-## Álgebra Linear e Ciência de Dados
-
-| Provedor | Nome do Curso | Link | Descrição |
-|----------|---------------|------|-----------|
-| FGV | Álgebra Linear e Ciência de Dados | [Link](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/algebra-linear-e-ciencia-de-dados) | Aprenda álgebra linear para ciência de dados, entender medidas amostrais e interpretar regressão como projeção ortogonal. |
-
 
 ## Business Intelligence
 
@@ -126,6 +119,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 |----------|---------------|------|-----------|
 | FGV | Introdução à Ciência de Dados | [Link](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ciencia-de-dados?utm_source=fgvnoticias&utm_medium=referral&utm_campaign=ide_ocw_referral&utm_content=cursosgratuitos_fgvnoticias) | Compreenda o que é Ciência de Dados, suas principais etapas e os recursos matemáticos e computacionais usados em cada fase. |
 | Santander Open Academy | Ciência de Dados | [Link](https://santanderopenacademy.com/pt_br/courses/introduction-to-data-science.html) | Entenda o valor da ciência de dados nos negócios, o papel do Big Data, e por que a qualidade dos dados faz toda a diferença. |
+| FGV | Álgebra Linear e Ciência de Dados | [Link](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/algebra-linear-e-ciencia-de-dados) | Aprenda álgebra linear para ciência de dados, entender medidas amostrais e interpretar regressão como projeção ortogonal. |
 | EuCapacito | Ciência de Dados | [Link](https://eucapacito.com.br/cursos/ciencia-de-dados)| Você vai explorar todo o ciclo de análise: da coleta à visualização, usando SQL, Python, Pandas e Plotly com dados do governo. |
 
 ## Cibersegurança
@@ -359,7 +353,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Microsoft | Curso Gratuito de Power BI | [Link](https://learn.microsoft.com/pt-br/training/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-marketing-page) | Cobre técnicas de visualização de dados do básico ao avançado com certificação. |
 | Hashtag Treinamentos | Minicurso de Fórmulas DAX - Power BI | [Link](https://excelparaestagio.klickpages.com.br/inscricao-minicurso-formulasdax-power-bi?origemurl=hashtag_free_org_minicursoformulasdax) | Aprenda fórmulas DAX para Power BI. |
 | Hashtag Treinamentos | Minicurso de Gráficos no Power BI | [Link](https://excelparaestagio.klickpages.com.br/inscricao-minicurso-graficos-power-bi?origemurl=hashtag_free_org_minicursograficopb) | Foco na criação de gráficos no Power BI. |
-| Hashtag Treinamentos | Minicurso de Dashboard – Power BI | [Link](https://pages.hashtagtreinamentos.com/inscricao-minicursopbi-dashboard?origemurl=hashtag_free_org_minidashpbi) | Aprenda a construir dashboards no Power BI. |
+| Hashtag Treinamentos | Minicurso de Dashboard - Power BI | [Link](https://pages.hashtagtreinamentos.com/inscricao-minicursopbi-dashboard?origemurl=hashtag_free_org_minidashpbi) | Aprenda a construir dashboards no Power BI. |
 
 
 ## Python (Back-end)
