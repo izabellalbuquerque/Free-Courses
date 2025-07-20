@@ -54,12 +54,10 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [PHP (Back-end)](#php-back-end)
 - [Power Apps](#power-apps)
 - [Power BI](#power-bi)
-- [Projeto de Interface Gráfica com Python](#projeto-de-interface-gráfica-com-python)
 - [Python (Back-end)](#python-back-end)
 - [React](#react)
 - [Redes](#redes)
 - [Ruby](#ruby)
-- [Soluções de IA no GitHub](#soluções-de-ia-no-github)
 - [SQL](#sql)
 - [Swift (iOS)](#swift-ios)
 - [Testes / Automação de Testes](#testes--automação-de-testes)
@@ -209,6 +207,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | Curso em Vídeo | Curso Gratuito de Git e GitHub | [Link](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | Introdução e explicação sobre diferenças entre Git e GitHub, aprendizagem sobre versionamento e comandos essenciais com o Gustavo Guanabara. |
+| Fundação Bradesco | Soluções de IA no GitHub | [Link](https://ev.org.br/cursos/github) | Aprenda sobre GitHub Copilot, Codespaces na nuvem e GitHub Actions com seus fluxos e elementos. |
 | EuCapacito | GitHub | [Link](https://eucapacito.com.br/cursos/github/) | Aprenda a criar um repositório do zero, fazer requisições manuais e via VS Code, e praticar os principais conceitos da plataforma de forma prática e divertida. |
 
 ## GoLang (Go)
@@ -362,11 +361,6 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Hashtag Treinamentos | Minicurso de Gráficos no Power BI | [Link](https://excelparaestagio.klickpages.com.br/inscricao-minicurso-graficos-power-bi?origemurl=hashtag_free_org_minicursograficopb) | Foco na criação de gráficos no Power BI. |
 | Hashtag Treinamentos | Minicurso de Dashboard – Power BI | [Link](https://pages.hashtagtreinamentos.com/inscricao-minicursopbi-dashboard?origemurl=hashtag_free_org_minidashpbi) | Aprenda a construir dashboards no Power BI. |
 
-## Projeto de Interface Gráfica com Python
-
-| Provedor | Nome do Curso | Link | Descrição |
-|----------|---------------|------|-----------|
-| Fundação Bradesco | Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python | [Link](https://www.ev.org.br/cursos/criando-um-projeto-com-interface-grafica-utilizando-a-linguagem-python) | Crie aplicativos gráficos com Python usando Kivy, abordando conceitos como classes, métodos e encapsulamento. |
 
 ## Python (Back-end)
 
@@ -376,6 +370,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Hashtag Treinamentos | Minicurso Análise de Dados com Python | [Link](https://pages.hashtagtreinamentos.com/inscricao-minicurso-analisededados-python?origemurl=hashtag_free_org_minianalisepython) | Aprenda análise de dados com Python. |
 | Hashtag Treinamentos | Minicurso Automação em Python | [Link](https://pages.hashtagtreinamentos.com/inscricao-minicurso-python-automacao-org?origemurl=hashtag_free_org_minipython) | Foco em automação com Python. |
 | Hashtag Treinamentos | Minicurso Básico de Python | [Link](https://pages.hashtagtreinamentos.com/inscricao-curso-basico-python?origemurl=hashtag_free_org_minibasicopython) | Curso básico de programação em Python. |
+| Fundação Bradesco | Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python | [Link](https://www.ev.org.br/cursos/criando-um-projeto-com-interface-grafica-utilizando-a-linguagem-python) | Crie aplicativos gráficos com Python usando Kivy, abordando conceitos como classes, métodos e encapsulamento. |
 | Santander Open Academy | Introdução à Programação com Python | [Link](https://www.santanderopenacademy.com/pt_br/courses/introduction_to_python_programming.html) | Introdução à programação com Python. |
 | LinkedIn | Curso de Python | [Link](https://www.linkedin.com/posts/humbertozanetti_python-cursogratuito-programaaexaeto-activity-7247226250052747265-9bRs?utm_source=share&utm_medium=member_ios) | Curso de programação em Python. |
 | EuCapacito | Python Web | [Link](https://eucapacito.com.br/cursos/python-web/) | Crie uma aplicação back-end usando Python e o framework Django, consuma a API da animação Avatar e exiba os dados em uma tela com paginação usando Bootstrap. |
@@ -402,11 +397,6 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Ruby para Iniciantes | [Link](https://www.udemy.com/course/ruby-para-iniciantes/) | Curso de Ruby para iniciantes. |
 | Cursou | Curso de Ruby | [Link](https://www.cursou.com.br/informatica/ruby/) | Curso de programação em Ruby. |
 
-## Soluções de IA no GitHub
-
-| Provedor | Nome do Curso | Link | Descrição |
-|----------|---------------|------|-----------|
-| Fundação Bradesco | Soluções de IA no GitHub | [Link](https://ev.org.br/cursos/github) | Aprenda sobre GitHub Copilot, Codespaces na nuvem e GitHub Actions com seus fluxos e elementos. |
 
 ## SQL
 
