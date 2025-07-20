@@ -90,6 +90,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | Fundação Bradesco | Aspectos Introdutórios de Business Intelligence | [Link](https://ev.org.br/cursos/AI900Azure) | Aprenda sobre Azure, visão computacional, processamento de linguagem natural, extração de informações e IA generativa. |
+| Udemy | Power BI para Todos: Fácil e Simples | [Link](https://www.udemy.com/course/power-bi-para-todos-facil-e-simples/) | Você vai aprender a usar o Power BI do zero: desde a instalação até a criação e publicação de dashboards interativos, com estudo de caso e recursos para dispositivos móveis. |
 
 ## C#
 
