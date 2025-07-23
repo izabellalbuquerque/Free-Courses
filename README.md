@@ -204,6 +204,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Curso em Vídeo | Curso Gratuito de Git e GitHub | [Link](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | Introdução e explicação sobre diferenças entre Git e GitHub, aprendizagem sobre versionamento e comandos essenciais com o Gustavo Guanabara. |
 | Fundação Bradesco | Soluções de IA no GitHub | [Link](https://ev.org.br/cursos/github) | Aprenda sobre GitHub Copilot, Codespaces na nuvem e GitHub Actions com seus fluxos e elementos. |
 | EuCapacito | GitHub | [Link](https://eucapacito.com.br/cursos/github/) | Aprenda a criar um repositório do zero, fazer requisições manuais e via VS Code, e praticar os principais conceitos da plataforma de forma prática e divertida. |
+| Cursa | Git e GitHub | [Link](https://cursa.com.br/home/course/curso-gratuito-git-e-github/95) | Você vai aprender do zero: conceitos básicos, instalação, commits, branches, merge, GitHub, pull requests, fork e como colaborar em projetos reais. |
 
 ## GoLang (Go)
 
