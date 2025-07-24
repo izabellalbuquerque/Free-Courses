@@ -18,7 +18,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 
 ## Sumário
 
-- [Análise de Dados Multivariada](#análise-de-dados-multivariada)
+- [Análise de Dados](#análise-de-dados)
 - [Android](#android)
 - [AngularJS](#angularjs)
 - [Business Intelligence](#business-intelligence)
@@ -54,21 +54,22 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [Power Apps](#power-apps)
 - [Power BI](#power-bi)
 - [Python (Back-end)](#python-back-end)
+- [QA - Testes de Software](#qa---testes-de-software)
 - [React](#react)
 - [Redes](#redes)
 - [Ruby](#ruby)
 - [SQL](#sql)
 - [Swift (iOS)](#swift-ios)
-- [Testes / Automação de Testes](#testes--automação-de-testes)
 - [TypeScript](#typescript)
 - [UX e UI Design](#ux-e-ui-design)
 - [Word](#word)
 - [WordPress](#wordpress)
 
-## Análise de Dados Multivariada
+## Análise de Dados
 
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
+| Fundação Bradesco | Introdução à Análise de Dados - Microsoft Power BI | [Link](https://www.ev.org.br/cursos/introducao-a-analise-de-dados-microsoft-power-bi) | O curso ensina como usar o Microsoft Power BI para transformar dados em relatórios e painéis visuais, ajudando a contar histórias que apoiam decisões confiáveis. |
 | FGV | Introdução à Organização de Dados para Análise Multivariada | [Link](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-organizacao-de-dados-para-analise-multivariada) | Aprenda a importância da organização dos dados, práticas de preparação e como garantir análises produtivas e assertivas. |
 
 ## Android
@@ -372,6 +373,13 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | EuCapacito | Python Web | [Link](https://eucapacito.com.br/cursos/python-web/) | Crie uma aplicação back-end usando Python e o framework Django, consuma a API da animação Avatar e exiba os dados em uma tela com paginação usando Bootstrap. |
 | Udemy | Python para Iniciantes - Aprenda do Zero | [Link](https://udemy.com/course/python-basico-para-iniciantes/)| Você vai aprender os fundamentos de Python, incluindo variáveis, estruturas de decisão e repetição, listas, funções, módulos e pacotes. |
 
+## QA - Testes de Software
+
+| Provedor | Nome do Curso | Link | Descrição |
+|----------|---------------|------|-----------|
+| Udemy | Teste de Software: Princípios e Fundamentos de QA | [Link](https://www.udemy.com/course/principios-e-fundamentos-do-teste-de-software/)| Você vai aprender os fundamentos dos testes de software: níveis, estratégias, testes ágeis e criação de casos de teste. |
+| Udemy | Selenium e Java com Visual Studio Code | [Link](https://udemy.com/course/selenium-e-java-no-visual-studio-code/)| Você vai aprender a criar testes automatizados em Java usando Selenium e JUnit 5, configurando o ambiente e aplicando boas práticas de código. |
+
 ## React
 
 | Provedor | Nome do Curso | Link | Descrição |
@@ -400,7 +408,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 |----------|---------------|------|-----------|
 | Hashtag Treinamentos | Curso de SQL | [Link](https://pages.hashtagtreinamentos.com/inscricao-minicurso-sql?origemurl=hashtag_free_org_minisql) | Aprenda a consultar, resumir e analisar dados, além de gerenciar tabelas de banco de dados. |
 | FGV | SQL (Structured Query Language) | [Link](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/sql-structured-query-language) | Aprenda a consultar, resumir, analisar e gerenciar dados em bancos de dados com eficiência. |
-| Udemy | SQL para Análise de Dados: Do Básico ao Avançado | [Link](https://udemy.com/course/sql-para-analise-de-dados/?couponCode=UPGRADE02223) | Aprenda a analisar bancos de dados de negócio com SQL por meio de exercícios e projetos com quem trabalha com isso! |
+| Udemy | SQL para Análise de Dados: Do Básico ao Avançado | [Link](https://udemy.com/course/sql-para-analise-de-dados/?couponCode=UPGRADE02223) | Aprenda a analisar bancos de dados de negócio com SQL por meio de exercícios e projetos com quem trabalha com isso. |
 | Cursa | Banco de Dados SQL Server Passo a Passo | [Link](https://cursa.app/pt/curso-gratuito/banco-de-dados-sql-server-passo-a-passo-dgib) | Instale, modele e administre bancos de dados, crie tabelas, consultas SQL, funções, índices e transações. Ideal para iniciantes e avançados. |
 | GINEAD | Administração de PostgreSQL | [Link](https://www.ginead.com.br/curso/curso-de-administracao-de-postgresql) | Aprenda a instalar e configurar bancos de dados em Linux, gerenciar usuários, permissões, backups, otimização, monitoramento e manter o ambiente seguro e eficiente. |
 | Udemy | Introdução a banco de dados com MySQL & PHPMyAdmin | [Link](https://udemy.com/course/mysql_phpmyadmin/)| Você vai aprender SQL básico usando o banco de dados MySQL e a ferramenta online PHPMyAdmin.|
@@ -416,12 +424,6 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Aprendendo Swift do Iniciante ao Avançado | [Link](https://www.udemy.com/course/aprendendoswift3/) | Curso de Swift para iniciantes a avançados, compatível com Mac e Windows. |
 | Udemy | Cursos Gratuitos de Swift | [Link](https://www.udemy.com/pt/topic/swift/free/) | Cursos e tutoriais gratuitos de Swift. |
 
-
-## Testes / Automação de Testes
-
-| Provedor | Nome do Curso | Link | Descrição |
-|----------|---------------|------|-----------|
-| Udemy | Selenium e Java com Visual Studio Code | [Link](https://udemy.com/course/selenium-e-java-no-visual-studio-code/)| Você vai aprender a criar testes automatizados em Java usando Selenium e JUnit 5, configurando o ambiente e aplicando boas práticas de código. |
 
 ## TypeScript
 
