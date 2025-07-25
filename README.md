@@ -32,6 +32,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [Engenharia de Software](#engenharia-de-software)
 - [Estruturas de Dados](#estruturas-de-dados)
 - [Excel](#excel)
+- [Flutter](#flutter)
 - [Formulários VBA](#formulários-vba)
 - [Fundamentos de TI](#fundamentos-de-ti)
 - [Git e GitHub](#git-e-github)
@@ -184,6 +185,13 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | VEDUCA | Excel do Básico ao Avançado | [Link](https://veduca.org/courses/curso-excel/) | Curso abrangente de Excel para iniciantes a usuários avançados. |
 | GINEAD | Excel Avançado | [Link](https://ginead.com.br/curso/curso-online-gratis-excel-avancado) | Aprenda funções do Excel, gráficos, tabelas dinâmicas, filtros, validação de dados, uso de macros e recursos para análise e automação. |
 | Santander Open Academy | Excel - Do Básico ao Intermediário | [Link](https://santanderopenacademy.com/pt_br/courses/excel.html) | Aprenda Excel do básico ao intermediário para realizar um trabalho inicial de gerenciamento e análise de dados. |
+
+## Flutter 
+
+| Provedor | Nome do Curso | Link | Descrição |
+|----------|---------------|------|-----------|
+| Udemy | Flutter: Desenvolva um Cadastro Completo | [Link](https://www.udemy.com/course/flutter-desenvolva-um-cadastro-completo-2020/) | Você vai aprender a desenvolver uma aplicação do zero com Flutter, usando navegação entre telas e gerenciamento de estado com Provider. |
+| Udemy | Flutter: crie apps Android/iOS com novo SDK mobile do Google | [Link](https://www.udemy.com/course/flutter-crie-aplicativos-android-e-ios-com-sdk-mobile-do-google-e-dart/) | Você vai aprender a usar o Flutter e a linguagem Dart para criar apps modernos, com bom desempenho, rodando em Android e iOS com um único código, aplicando programação orientada a objetos e recursos do Material Design. |
 
 ## Formulários VBA
 
