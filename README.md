@@ -85,6 +85,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | Unicamp | Desenvolvimento Web com AngularJS | [Link](https://moocs.ggte.unicamp.br/course/desenvolvimento-web-com-angularjs/intro) | Curso gratuito da Unicamp sobre desenvolvimento web com AngularJS. |
+| Suprema | AngularJS completo | [Link](https://supremaux.com/curso-completo-e-gratuito-de-angularjs/) | Você vai aprender a desenvolver aplicações web dinâmicas com AngularJS, uma das principais frameworks JavaScript do mercado. |
 
 
 ## Business Intelligence
