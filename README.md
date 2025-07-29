@@ -72,6 +72,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 |----------|---------------|------|-----------|
 | Fundação Bradesco | Introdução à Análise de Dados - Microsoft Power BI | [Link](https://www.ev.org.br/cursos/introducao-a-analise-de-dados-microsoft-power-bi) | O curso ensina como usar o Microsoft Power BI para transformar dados em relatórios e painéis visuais, ajudando a contar histórias que apoiam decisões confiáveis. |
 | FGV | Introdução à Organização de Dados para Análise Multivariada | [Link](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-organizacao-de-dados-para-analise-multivariada) | Aprenda a importância da organização dos dados, práticas de preparação e como garantir análises produtivas e assertivas. |
+| Edune | Análise de Dados | [Link](https://www.edunecursos.com.br/curso/analise-de-dados) | Você vai aprender análise de dados do zero ao avançado: SQL, estatística, visualização, machine learning, NLP, big data e Power BI. |
 
 ## Android
 
@@ -85,7 +86,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | Unicamp | Desenvolvimento Web com AngularJS | [Link](https://moocs.ggte.unicamp.br/course/desenvolvimento-web-com-angularjs/intro) | Curso gratuito da Unicamp sobre desenvolvimento web com AngularJS. |
-| Suprema | AngularJS completo | [Link](https://supremaux.com/curso-completo-e-gratuito-de-angularjs/) | Você vai aprender a desenvolver aplicações web dinâmicas com AngularJS, uma das principais frameworks JavaScript do mercado. |
+| Suprema | AngularJS completo | [Link](https://supremaux.com/curso-completo-e-gratuito-de-angularjs/) | Você vai aprender a desenvolver aplicações web dinâmicas com AngularJS, um dos principais frameworks JavaScript do mercado. |
 
 
 ## Business Intelligence
