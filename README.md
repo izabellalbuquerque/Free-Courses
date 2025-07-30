@@ -29,6 +29,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [Cibersegurança](#cibersegurança)
 - [Cloud / AWS](#cloud--aws)
 - [Design de Jogos](#design-de-jogos)
+- [DevOps](#devops)
 - [Engenharia de Software](#engenharia-de-software)
 - [Estruturas de Dados](#estruturas-de-dados)
 - [Excel](#excel)
@@ -159,6 +160,12 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | EuCapacito | Game Design | [Link](https://www.eucapacito.com.br/cursos/game-design/) | Aprenda sobre o mercado de games e todas as etapas do game design, desde a criação da história, visual e mecânicas até prototipagem, testes e apresentação do jogo. |
+
+## DevOps
+
+| Provedor | Nome do Curso | Link | Descrição |
+|----------|---------------|------|-----------|
+| Udemy | Introdução ao DevOps | [Link](https://www.udemy.com/course/curso-de-introducao-ao-devops/) | Você vai aprender os fundamentos de DevOps, como aplicar na prática, analisar necessidades dos clientes, precificar serviços, estudar cases reais e projetar seu próprio negócio. |
 
 ## Engenharia de Software
 
