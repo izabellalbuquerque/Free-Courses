@@ -119,6 +119,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | EuCapacito | Chatbots | [Link](https://eucapacito.com.br/cursos/chatbots/) | Aprenda a criar chatbots usando IA, explorar plataformas como o IBM Watson, integrar com redes sociais, analisar métricas e aplicar conceitos de UX, VUI e LLMs. |
+| EAD Education | Chatbot para iniciantes | [Link](https://ead.education/course/chatbot-para-iniciantes/) | Você vai aprender a criar assistentes virtuais do zero, entendendo como funcionam, quais ferramentas usar e como engajar os usuários com interações automatizadas. |
 
 ## Ciência de Dados
 
