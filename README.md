@@ -162,6 +162,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | EuCapacito | Game Design | [Link](https://www.eucapacito.com.br/cursos/game-design/) | Aprenda sobre o mercado de games e todas as etapas do game design, desde a criação da história, visual e mecânicas até prototipagem, testes e apresentação do jogo. |
+| Up Cursos | Designer de Jogos | [Link](https://upcursosgratis.com.br/curso-online-gratis/basico-de-designer-de-jogos) | Você vai aprender os fundamentos do design de games, incluindo gameplay, narrativa, personagens e arte. |
 
 ## DevOps
 
