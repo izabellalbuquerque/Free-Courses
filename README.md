@@ -348,6 +348,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | FGV | Tópicos em Machine Learning | [Link](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/topicos-em-machine-learning) | Desenvolva uma visão ampla de Machine Learning, com foco em SVM e em métodos de aprendizagem não supervisionada. |
+| Udemy | Machine Learning e Data Science: O guia para iniciantes | [Link](https://www.udemy.com/course/guia-iniciantes-machine-learning-data-science/) | Você vai aprender os fundamentos de Machine Learning e Data Science, usando a ferramenta visual Orange para aplicar algoritmos de forma prática e intuitiva. |
 
 ## Node.js
 
