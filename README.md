@@ -397,6 +397,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | LinkedIn | Curso de Python | [Link](https://www.linkedin.com/posts/humbertozanetti_python-cursogratuito-programaaexaeto-activity-7247226250052747265-9bRs?utm_source=share&utm_medium=member_ios) | Curso de programação em Python. |
 | EuCapacito | Python Web | [Link](https://eucapacito.com.br/cursos/python-web/) | Crie uma aplicação back-end usando Python e o framework Django, consuma a API da animação Avatar e exiba os dados em uma tela com paginação usando Bootstrap. |
 | Udemy | Python para Iniciantes - Aprenda do Zero | [Link](https://udemy.com/course/python-basico-para-iniciantes/)| Você vai aprender os fundamentos de Python, incluindo variáveis, estruturas de decisão e repetição, listas, funções, módulos e pacotes. |
+| Escola Virtual Gov | Aprendendo com Python | [Link](https://www.escolavirtual.gov.br/curso/629)| Você vai aprender os principais conceitos de lógica de programação e como aplicá-los com Python, usando variáveis, operadores, estruturas condicionais e de repetição para resolver desafios práticos. |
 
 ## QA - Testes de Software
 
