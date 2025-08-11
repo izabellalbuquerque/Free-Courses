@@ -82,6 +82,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 |----------|---------------|------|-----------|
 | GINEAD | Android para Iniciantes | [Link](https://ginead.com.br/curso/curso-android-para-iniciantes) | Aprenda a configurar o Android Studio, criar apps básicos, usar componentes e executar no emulador e smartphone. |
 | Unicamp | Programação Android | [Link](https://moocs.ggte.unicamp.br/course/android/intro) | Curso gratuito da Unicamp sobre programação Android. |
+| Google for Developers | Noções básicas do Android com o Compose - Oficial do Google | [Link](https://developer.android.com/courses/android-basics-compose/course?hl=pt-br) | Você vai aprender a criar apps Android do zero usando Kotlin e Jetpack Compose, desenvolver interfaces modernas, aplicar boas práticas e gerenciar navegação entre telas. |
 
 ## AngularJS
 
