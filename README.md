@@ -279,11 +279,12 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | EuCapacito | Inteligência Artificial e Computacional | [Link](https://www.eucapacito.com.br/cursos/inteligencia-artificial-e-computacional/) | Introdução a conceitos de IA e computação. |
-| EuCapacito (IBM) | IA - Primeiros Passos | [Link](https://www.eucapacito.com.br/cursos/inteligencia-artificial-ia-primeiros-passos-ibm/) | Primeiros passos em inteligência artificial. |
-| EuCapacito (IDP) | Inteligência Artificial Aplicada à Comunicação | [Link](https://www.eucapacito.com.br/inteligencia-artificial/inteligencia-artificial/) | Aplicações de IA na comunicação. |
-| EuCapacito (Microsoft) | Introdução à Inteligência Artificial no Azure | [Link](https://www.eucapacito.com.br/cursos/inteligencia-artificial-no-azure/) | Introdução à IA no Azure. |
+| EuCapacito | IA - Primeiros Passos | [Link](https://www.eucapacito.com.br/cursos/inteligencia-artificial-ia-primeiros-passos-ibm/) | Primeiros passos em inteligência artificial. |
+| EuCapacito | Inteligência Artificial Aplicada à Comunicação | [Link](https://www.eucapacito.com.br/inteligencia-artificial/inteligencia-artificial/) | Aplicações de IA na comunicação. |
+| EuCapacito | Introdução à Inteligência Artificial no Azure | [Link](https://www.eucapacito.com.br/cursos/inteligencia-artificial-no-azure/) | Introdução à IA no Azure. |
 | Escola Conquer | Curso de IA | [Link](https://escolaconquer.com.br/inteligencia-artificial/) | Curso de IA para aplicações práticas. |
 | YouTube | Curso de Inteligência Artificial | [Link](https://youtube.com/playlist?list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&si=6MWPjip7G-rd0Ocx) | Playlist de vídeos gratuita sobre IA pelo Gustavo Guanabara. |
+| Udemy | Fundamentos de Inteligência Artificial Moderna | [Link](https://www.udemy.com/course/fundamentos-de-inteligencia-artificial-moderna/) | Você vai aprender os principais conceitos e aplicações de IA, incluindo Machine Learning, redes neurais, visão computacional, PLN, IA generativa e agentes inteligentes. |
 
 ## IA Generativa
 
