@@ -265,6 +265,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Unicamp | JavaScript: Conceitos e Bibliotecas | [Link](https://moocs.ggte.unicamp.br/course/javascript-conceitos-e-bibliotecas/intro) | Curso gratuito da Unicamp sobre conceitos e bibliotecas de JavaScript. |
 | GINEAD | HTML5 | [Link](https://www.ginead.com.br/curso/curso-online-gratuito-html5) | Você vai aprender os fundamentos do HTML5, novos elementos, mídia (áudio e vídeo), tipos de links, menus, além de uma introdução ao CSS3. |
 | Udemy | HTML5, CSS3 e JavaScript na prática | [Link](https://udemy.com/course/html5-css3-e-javascript-na-pratica-3-projetos/)| Você vai aprimorar suas habilidades em HTML5, CSS3 e JavaScript puro por meio da criação de dois projetos: um portfólio pessoal e um conversor de moedas. |
+| Suprema | JavaScript - Do Básico ao Avançado | [Link](https://supremaux.com/curso-gratuito-e-completo-de-javascript-do-basico-ao-avancado/)| O curso ensina desde os conceitos básicos até técnicas avançadas da linguagem, abordando tópicos como variáveis, funções, objetos, arrays, manipulação de DOM, eventos, AJAX, ES6 e muito mais. |
 
 ## Idiomas
 
