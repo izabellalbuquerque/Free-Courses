@@ -287,7 +287,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Escola Conquer | Curso de IA | [Link](https://escolaconquer.com.br/inteligencia-artificial/) | Curso de IA para aplicações práticas. |
 | YouTube | Curso de Inteligência Artificial | [Link](https://youtube.com/playlist?list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&si=6MWPjip7G-rd0Ocx) | Playlist de vídeos gratuita sobre IA pelo Gustavo Guanabara. |
 | Udemy | Fundamentos de Inteligência Artificial Moderna | [Link](https://www.udemy.com/course/fundamentos-de-inteligencia-artificial-moderna/) | Você vai aprender os principais conceitos e aplicações de IA, incluindo Machine Learning, redes neurais, visão computacional, PLN, IA generativa e agentes inteligentes. |
-| Suprema | Domine o ChatGPT - Completo do Básico ao Avançado | [Link](https://supremaux.com/domine-o-chatgpt-curso-gratuito-e-completo-do-basico-ao-avancado/) | Aprenda a usar o ChatGPT do básico ao avançado, incluindo integração e automação de tarefas. |
+| Suprema | Domine o ChatGPT - Completo do Básico ao Avançado | [Link](https://supremaux.com/domine-o-chatgpt-curso-gratuito-e-completo-do-basico-ao-avancado/) | Você vai aprender a usar o ChatGPT, desde a interface até técnicas de integração, automação de tarefas e criação de projetos com inteligência artificial. |
 
 ## IA Generativa
 
