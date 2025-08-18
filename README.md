@@ -1,6 +1,6 @@
-# Cursos e Certificações Gratuitas em Tecnologia
+# Cursos e Certificações Gratuitos em Tecnologia
 
-Se você está buscando se aprimorar na área de tecnologia, este repositório é pra você! Aqui você encontra uma curadoria completa de **cursos e certificações 100% gratuitos** nas áreas de TI, programação, ciência de dados, cibersegurança, inteligência artificial, entre outros.
+Se você está buscando se aprimorar na área de tecnologia, este repositório é pra você! Aqui você encontra uma curadoria completa de **cursos e certificações 100% gratuitos** nas áreas de programação, ciência de dados, cibersegurança, inteligência artificial, entre outros.
 
 Todos os cursos são oferecidos por plataformas confiáveis e muitos deles incluem **certificado de conclusão**, o que pode fazer a diferença no seu currículo ou portfólio.
 
