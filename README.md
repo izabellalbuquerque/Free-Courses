@@ -49,6 +49,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [Laravel](#laravel)
 - [LGPD (Lei Geral de Proteção de Dados Pessoais)](#lgpd-lei-geral-de-proteção-de-dados-pessoais)
 - [Linguagem R](#linguagem-r)
+- [Linux](#linux)
 - [Lógica de Programação e Algoritmos](#lógica-de-programação-e-algoritmos)
 - [Machine Learning](#machine-learning)
 - [Node.js](#nodejs)
@@ -139,17 +140,16 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | FGV | Cibersegurança: Anatomia Clássica de um Ciberataque | [Link](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/ciberseguranca-anatomia-classica-de-um-ciberataque) | Aprenda sobre o uso da TI nas empresas, ameaças cibernéticas, maturidade em gestão de TI e como ocorrem os ataques. |
-| Securiti | Curso de Segurança e Governança de IA | [Link](https://education.securiti.ai/certifications/ai-governance/) | Aprenda sobre segurança e governança de IA. |
-| Securiti | Curso de Operações de Privacidade | [Link](https://education.securiti.ai/certifications/privacyops/) | Foco em operações de privacidade em cibersegurança. |
+| Securiti | Curso de Segurança e Governança de IA | [Link](https://education.securiti.ai/certifications/ai-governance/) | Você aprenderá conceitos fundamentais de governança de IA, incluindo generative AI, leis globais de IA, conformidade, gestão de riscos e frameworks de governança para inovação responsável. |
+| Securiti | Curso de Operações de Privacidade | [Link](https://education.securiti.ai/certifications/privacyops/) | Você aprenderá conceitos centrais de leis globais de privacidade de dados, o processo de operacionalização da privacidade em organizações e o papel da automação na gestão de privacidade. |
 | Securiti | Curso de Centro de Comando de Dados | [Link](https://education.securiti.ai/certifications/data-command-center-certification/) | Aprenda sobre operações de centro de comando de dados. |
-| Securiti | Curso de Segurança - Fundamentos | [Link](https://education.securiti.ai/certifications/securiti-fundamentals/) | Fundamentos de cibersegurança. |
-| Securiti | Curso de Segurança - Avançado | [Link](https://education.securiti.ai/certifications/securiti-advanced-course/) | Conceitos avançados de cibersegurança. |
-| Esecurity | Introdução à Segurança da Informação | [Link](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Curso de 15 horas que requer conhecimento básico de linha de comando no Linux. |
-| Girl Security & Microsoft | Encontrando seus Superpoderes de Segurança Cibernética | [Link](https://girlsecurity.thinkific.com/courses/finding-your-cybersecurity-superpowers-with-girl-security-and-microsoft-security) | Descubra habilidades de cibersegurança com a Microsoft. |
-| Girl Security | Um Guia para Meninas sobre Segurança Eleitoral | [Link](https://girlsecurity.thinkific.com/courses/electionsecurityguide) | Aprenda sobre segurança eleitoral. |
+| Securiti | Curso de Segurança - Fundamentos | [Link](https://education.securiti.ai/certifications/securiti-fundamentals/) | Você aprenderá uma visão técnica dos produtos da Securiti, como Sensitive Data Intelligence, Data Subject Rights Robotic Automation e Data Mapping, em um formato condensado. |
+| Securiti | Curso de Segurança - Avançado | [Link](https://education.securiti.ai/certifications/securiti-advanced-course/) | Você aprenderá a instalar, configurar e administrar soluções da plataforma Securiti, incluindo Sensitive Data Intelligence, Data Subject Rights, Universal Consent Management, Data Mapping, e mais. |
+| Esecurity | Introdução à Segurança da Informação | [Link](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Você aprenderá fundamentos de segurança (confidencialidade, integridade, autenticidade, disponibilidade), protocolos (TCP/UDP), redes, virtualização com Kali Linux, IDS/IPS, firewalls e UTMs, com prática em laboratórios. |
+| Girl Security & Microsoft | Encontrando seus Superpoderes de Segurança Cibernética | [Link](https://girlsecurity.thinkific.com/courses/finding-your-cybersecurity-superpowers-with-girl-security-and-microsoft-security) | Você explorará fundamentos de cibersegurança, diversidade na área, sua identidade no contexto cyber, desafios de segurança digital e ransomware por meio de 28 lições interativas, incluindo atividades práticas como o exercício de ransomware e reflexões sobre seu "DNA digital". |
+| Girl Security | Um Guia para Meninas sobre Segurança Eleitoral | [Link](https://girlsecurity.thinkific.com/courses/electionsecurityguide) | Você aprenderá sobre segurança eleitoral, desinformação, segurança nacional, impactos em comunidades de cor, táticas de desinformação, deepfakes e verificação de informações com o modelo "SEA" (Securing, Empowering, Advancing). |
 | Girl Security | Desinformação, Cibersegurança e Democracia | [Link](https://girlsecurity.thinkific.com/courses/disinformation-cybersecurity-and-democracy) | Explore a desinformação e seu impacto na cibersegurança e democracia. |
 | YouTube | Curso Gratuito de CyberSec | [Link](https://youtube.com/playlist?list=PL5LEt1ZcsDMZH5BltS_MTKGJio5W3houR&si=Hb6HjcfSt2V3swRa) | 14 aulas em vídeo com mais de 1 hora de conteúdo cada. |
-| Esecurity | Linux For Beginners | [Link](https://esecurity.com.br/cursos/kali-linux-for-beginners/) | Curso de 20 horas sobre fundamentos de Linux para cibersegurança. |
 | Udemy | Cursos Gratuitos de CyberSecurity | [Link](https://www.udemy.com/pt/topic/cyber-security/free/) | Cursos e tutoriais introdutórios gratuitos sobre cibersegurança.|
 | Cisco Networking Academy | Ethical Hacker | [Link](https://netacad.com/pt/courses/ethical-hacker?courseLang=en-US) | Aprenda segurança ofensiva para descobrir ameaças e vulnerabilidades cibernéticas. |
 | Santander/Coursera | Data and Cybersecurity | [Link](https://app.santanderopenacademy.com/pt-BR/program/coursera-data-and-cybersecurity) | Aprofunde-se em Ciência de Dados e Segurança Cibernética com 2.000 vagas gratuitas oferecidas pelo Santander em parceria com a Coursera. |
@@ -339,6 +339,13 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | FGV | Linguagem R: Introdução à Programação e Automação | [Link](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/linguagem-r-introducao-programacao-e-automacao) | Aprenda comandos de análise univariada em R e entenda o impacto das tecnologias disruptivas, assim como seus desafios de regulação. |
 | FGV | Produção de Gráficos Utilizando a Biblioteca ggplot2 | [Link](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/producao-de-graficos-utilizando-biblioteca-ggplot2) | Entenda as funções do R, explore gráficos estáticos com ggplot2 e compreenda a gramática de gráficos em diferentes ferramentas. |
 | Udemy | Estatística Computacional com o R | [Link](https://udemy.com/course/estatistica-computacional-com-o-r/)| Você vai aprender sobre distribuições estatísticas, interpretação de gráficos, testes de hipótese, correlação de dados e regressão linear. |
+
+## Linux
+
+| Provedor | Nome do Curso | Link | Descrição |
+|----------|---------------|------|-----------|
+| Esecurity | Kali Linux for Beginners | [Link](https://esecurity.com.br/cursos/kali-linux-for-beginners/) | Você vai aprender os fundamentos do Kali Linux, desde a instalação em máquina virtual, primeiros comandos e gerenciamento de arquivos, até configuração de rede, permissões e pacotes, preparando a base para testes de intrusão e segurança ofensiva. |
+| Cursa | Linux - Primeiros Passos | [Link](https://cursa.com.br/home/course/curso-de-linux-primeiros-passos-por-curso-em-v%C3%ADdeo/41) | Você vai aprender os fundamentos do Linux, incluindo instalação do Linux Mint, uso do terminal, gerenciamento de arquivos e dispositivos, além de instalar programas e explorar o sistema |
 
 ## Lógica de Programação e Algoritmos
 
