@@ -150,9 +150,10 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Girl Security | Desinformação, Cibersegurança e Democracia | [Link](https://girlsecurity.thinkific.com/courses/disinformation-cybersecurity-and-democracy) | Explore a desinformação e seu impacto na cibersegurança e democracia. |
 | YouTube | Curso Gratuito de CyberSec | [Link](https://youtube.com/playlist?list=PL5LEt1ZcsDMZH5BltS_MTKGJio5W3houR&si=Hb6HjcfSt2V3swRa) | 14 aulas em vídeo com mais de 1 hora de conteúdo cada. |
 | Esecurity | Linux For Beginners | [Link](https://esecurity.com.br/cursos/kali-linux-for-beginners/) | Curso de 20 horas sobre fundamentos de Linux para cibersegurança. |
-| Udemy | Cursos Gratuitos de CyberSecurity | [Link](https://www.udemy.com/pt/topic/cyber-security/free/) | Cursos e tutoriais introdutórios gratuitos sobre cibersegurança. |
+| Udemy | Cursos Gratuitos de CyberSecurity | [Link](https://www.udemy.com/pt/topic/cyber-security/free/) | Cursos e tutoriais introdutórios gratuitos sobre cibersegurança.|
 | Cisco Networking Academy | Ethical Hacker | [Link](https://netacad.com/pt/courses/ethical-hacker?courseLang=en-US) | Aprenda segurança ofensiva para descobrir ameaças e vulnerabilidades cibernéticas. |
 | Santander/Coursera | Data and Cybersecurity | [Link](https://app.santanderopenacademy.com/pt-BR/program/coursera-data-and-cybersecurity) | Aprofunde-se em Ciência de Dados e Segurança Cibernética com 2.000 vagas gratuitas oferecidas pelo Santander em parceria com a Coursera. |
+| Cursa | Introdução ao Hacking e Pentest 2.0 | [Link](https://cursa.com.br/home/course/curso-introdu%C3%A7%C3%A3o-ao-hacking-e-pentest-2-0/380) | Você vai aprender fundamentos de hacking ético e pentest, incluindo exploração de vulnerabilidades e pós-exploração. |
 
 ## Cloud / AWS
 
