@@ -458,6 +458,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Introdução a banco de dados com MySQL & PHPMyAdmin | [Link](https://udemy.com/course/mysql_phpmyadmin/)| Você vai aprender SQL básico usando o banco de dados MySQL e a ferramenta online PHPMyAdmin.|
 | Udemy| SQL de cada dia | [Link](https://udemy.com/course/sql-de-cada-dia/)| Você vai aprender a manipular bancos de dados relacionais usando SQL, com teoria e prática em um projeto.|
 | Fundação Bradesco | Implementando Banco de Dados | [Link](https://ev.org.br/cursos/implementando-banco-de-dados) | Aprenda sobre implementação de banco de dados com SQL Server, modelagem de dados e os níveis conceitual, lógico e físico. |
+| Cursa | MySQL | [Link](https://cursa.com.br/home/course/curso-mysql/15) | Você vai aprender os fundamentos do MySQL, desde a criação de bancos de dados e tabelas até consultas com SELECT e JOINS, além de inserir, atualizar e excluir dados, fazer backups e usar o phpMyAdmin para gerenciamento. |
 
 ## Swift (iOS)
 
