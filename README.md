@@ -330,6 +330,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 |----------|---------------|------|-----------|
 | Udemy | LGPD Executivo: Conhecimentos Aceleradores de Conformidade | [Link](https://www.udemy.com/course/lgpd-executivo-conhecimentos-aceleradores-de-conformidade/) | Aprenda sobre seus direitos legais à privacidade de dados e aprimore suas habilidades profissionais em conformidade com a LGPD do Brasil. |
 | Learncafe | Lei Geral de Proteção de Dados (LGPD) completo | [Link](https://www.learncafe.com/cursos/lei-geral-de-protecao-de-dados-analise-pratica-e-caminhos-legais-de-adequacao) | Você vai aprender o que é a LGPD, quais dados ela protege, como aplicar a lei na prática e garantir segurança no uso de dados pessoais. |
+| Cursa | Segurança e Preservação de Dados | [Link](https://cursa.com.br/home/course/curso-de-seguran%C3%A7a-e-preserva%C3%A7%C3%A3o-de-dados/629) | Você vai aprender a proteger e preservar dados digitais, usando criptografia, backups e práticas de segurança contra ataques. |
 
 
 ## Linguagem R
