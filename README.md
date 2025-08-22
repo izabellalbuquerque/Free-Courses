@@ -63,6 +63,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [Ruby](#ruby)
 - [SQL](#sql)
 - [Swift (iOS)](#swift-ios)
+- [Tailwind CSS](#tailwind-css)
 - [TypeScript](#typescript)
 - [UX e UI Design](#ux-e-ui-design)
 - [Word](#word)
@@ -469,6 +470,11 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Aprendendo Swift do Iniciante ao Avançado | [Link](https://www.udemy.com/course/aprendendoswift3/) | Curso de Swift para iniciantes a avançados, compatível com Mac e Windows. |
 | Udemy | Cursos Gratuitos de Swift | [Link](https://www.udemy.com/pt/topic/swift/free/) | Cursos e tutoriais gratuitos de Swift. |
 
+## Tailwind CSS
+
+| Provedor | Nome do Curso | Link | Descrição |
+|----------|---------------|------|-----------|
+| Cursa | Tailwind CSS para iniciantes | [Link](https://cursa.com.br/home/course/curso-gratuito-tailwindcss-2-iniciante/82) | Você vai aprender a dominar o Tailwind CSS 2, explorando conceitos fundamentais, responsividade com Flexbox e Grid, dark mode, personalização e boas práticas no desenvolvimento de interfaces. |
 
 ## TypeScript
 
