@@ -277,6 +277,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Kultivi | Inglês completo | [Link](https://kultivi.com/cursos/idiomas/ingles)| Você vai aprender vocabulário, gramática, conversação e compreensão auditiva com apoio de professores nativos e brasileiros. Ideal para iniciantes e intermediários, com acesso vitalício e certificado gratuito. |
 | Ginead | Espanhol Intermediário | [Link](https://ginead.com.br/curso/curso-de-espanhol-intermediario)| Você vai aprender vocabulário, gramática e expressões em espanhol por meio de verbos comuns do dia a dia, aprimorando sua comunicação em diferentes situações. |
 | Kultivi | Espanhol completo| [Link](https://kultivi.com/cursos/idiomas/espanhol)| Você vai aprender vocabulário, gramática, leitura, conversação e pronúncia desde o básico até o avançado |
+| Unova | Espanhol Intermediário | [Link](https://www.unovacursos.com.br/curso/espanhol-intermediario)| Você vai aprimorar seu vocabulário, gramática, compreensão de textos e fluência na conversação e compreensão auditiva. |
 
 ## Inteligência Artificial
 
