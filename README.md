@@ -155,6 +155,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Cisco Networking Academy | Ethical Hacker | [Link](https://netacad.com/pt/courses/ethical-hacker?courseLang=en-US) | Aprenda segurança ofensiva para descobrir ameaças e vulnerabilidades cibernéticas. |
 | Santander/Coursera | Data and Cybersecurity | [Link](https://app.santanderopenacademy.com/pt-BR/program/coursera-data-and-cybersecurity) | Aprofunde-se em Ciência de Dados e Segurança Cibernética com 2.000 vagas gratuitas oferecidas pelo Santander em parceria com a Coursera. |
 | Cursa | Introdução ao Hacking e Pentest 2.0 | [Link](https://cursa.com.br/home/course/curso-introdu%C3%A7%C3%A3o-ao-hacking-e-pentest-2-0/380) | Você vai aprender fundamentos de hacking ético e pentest, incluindo exploração de vulnerabilidades e pós-exploração. |
+| Up Cursos | Cibersegurança | [Link](https://upcursosgratis.com.br/curso-online-gratis/ciberseguranca) | Você vai aprender fundamentos de segurança da informação, criptografia, firewall, auditoria e boas práticas para manter sistemas seguros. |
 
 ## Cloud / AWS
 
