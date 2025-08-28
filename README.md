@@ -135,6 +135,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | FGV | Álgebra Linear e Ciência de Dados | [Link](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/algebra-linear-e-ciencia-de-dados) | Aprenda álgebra linear para ciência de dados, entender medidas amostrais e interpretar regressão como projeção ortogonal. |
 | EuCapacito | Ciência de Dados | [Link](https://eucapacito.com.br/cursos/ciencia-de-dados)| Você vai explorar todo o ciclo de análise: da coleta à visualização, usando SQL, Python, Pandas e Plotly com dados do governo. |
 | Udemy | Data Science - Visualização de Dados com Python | [Link](https://www.udemy.com/course/visualizacao-de-dados-com-python/)| Aprenda a criar gráficos e visualizar dados em Python com Matplotlib, usando exemplos práticos e dados reais. |
+| Udemy | Ciência de Dados | [Link](https://www.udemy.com/course/ciencia-de-dados-como-comecar/)| Você vai aprender os fundamentos da ciência de dados, incluindo análise exploratória de dados, regressão linear e conceitos básicos de machine learning. |
 
 ## Cibersegurança
 
