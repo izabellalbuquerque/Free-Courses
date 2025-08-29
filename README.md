@@ -56,7 +56,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [PHP](#php)
 - [Power Apps](#power-apps)
 - [Power BI](#power-bi)
-- [Python)](#python)
+- [Python](#python)
 - [QA - Testes de Software](#qa---testes-de-software)
 - [React](#react)
 - [Redes](#redes)
@@ -311,6 +311,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Coursera | Ciência da Computação: Programação com um Propósito | [Link](https://coursera.org/learn/cs-programming-java) | Aprenda os conceitos básicos de programação em Java e como aplicar a computação para resolver problemas em diferentes áreas. |
 | Udemy | Java para Iniciantes - Fundamentos, POO e Projeto | [Link](https://udemy.com/course/java-para-iniciantes-fundamentos-poo-e-projeto/)| Você vai aprender a instalar Java, criar seu primeiro programa, usar condicionais, loops e programação orientada a objetos para desenvolver projetos. |
 | Udemy | Java - Mini curso para iniciantes| [Link](https://udemy.com/course/java-mini-curso-para-iniciantes/)| Você vai aprender orientação a objetos em Java, usar o IntelliJ, criar classes e métodos, e trabalhar com variáveis, operadores e exceções. |
+| Udemy | Aprenda a Programar para Android com Java | [Link](https://www.udemy.com/course/programarandroid/)| Você vai aprender a desenvolver aplicativos Android com Java, criando layouts, telas, botões e gerando APKs. |
 
 ## Kotlin (Android)
 
