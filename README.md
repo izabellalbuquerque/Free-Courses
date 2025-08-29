@@ -40,7 +40,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [GoLang (Go)](#golang-go)
 - [Gravação de Macros](#gravação-de-macros)
 - [Hardware](#hardware)
-- [HTML, CSS e JavaScript (Front-end)](#html-css-e-javascript-front-end)
+- [HTML, CSS e JavaScript](#html-css-e-javascript)
 - [Idiomas](#idiomas)
 - [Inteligência Artificial](#inteligência-artificial)
 - [IA Generativa](#ia-generativa)
@@ -53,10 +53,10 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [Lógica de Programação e Algoritmos](#lógica-de-programação-e-algoritmos)
 - [Machine Learning](#machine-learning)
 - [Node.js](#nodejs)
-- [PHP (Back-end)](#php-back-end)
+- [PHP](#php)
 - [Power Apps](#power-apps)
 - [Power BI](#power-bi)
-- [Python (Back-end)](#python-back-end)
+- [Python)](#python)
 - [QA - Testes de Software](#qa---testes-de-software)
 - [React](#react)
 - [Redes](#redes)
@@ -256,7 +256,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | GINEAD | Hardware | [Link](https://ginead.com.br/curso/curso-de-hardware) | Aprenda sobre computadores, números binários, memória, processadores, chipset, placa-mãe, disco rígido, sistema FAT e componentes básicos do gabinete e fonte. |
 | Fundação Bradesco | Fundamentos de TI: Hardware e Software | [Link](https://ev.org.br/cursos/fundamentos-de-ti-hardware-e-software) | Aprenda o básico da informática, incluindo componentes do computador, hardware, software, sistemas operacionais e segurança da informação. |
 
-## HTML, CSS e JavaScript (Front-end)
+## HTML, CSS e JavaScript 
 
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
@@ -381,7 +381,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | EAD Education | Curso de Node.js | [Link](https://ead.education/course/node-js/) | Aprenda Node.js para desenvolvimento web. |
 | YouTube | Curso de Node.js para Iniciantes | [Link](https://www.youtube.com/watch?v=IOfDoyP1Aq0) | Curso de Node.js para iniciantes pelo Professor Felipe Rocha. |
 
-## PHP (Back-end)
+## PHP 
 
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
@@ -390,6 +390,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Curso de PHP | [Link](https://www.udemy.com/pt/topic/php/free/) | Cursos e tutoriais gratuitos de PHP. |
 | Udemy | Introdução ao PHP: Do Básico ao Intermediário | [Link](https://www.udemy.com/course/php-do-basico-ao-intermediario/) | Curso prático de PHP do básico ao intermediário. |
 | YouTube (Clube Full-Stack) | PHP para Iniciantes | [Link](https://www.youtube.com/watch?v=mRogW0vMJuI) | Curso completo de PHP para iniciantes. |
+| Udemy |  Introdução ao PHP orientado a objetos | [Link](https://www.udemy.com/course/php-orientado-a-objetos/) | Você vai aprender PHP orientado a objetos, incluindo classes, objetos, herança, encapsulamento e MVC. |
 
 ## Power Apps
 
@@ -407,7 +408,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Hashtag Treinamentos | Minicurso de Dashboard - Power BI | [Link](https://pages.hashtagtreinamentos.com/inscricao-minicursopbi-dashboard?origemurl=hashtag_free_org_minidashpbi) | Aprenda a construir dashboards no Power BI. |
 
 
-## Python (Back-end)
+## Python 
 
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
