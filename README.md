@@ -407,6 +407,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Hashtag Treinamentos | Minicurso de Fórmulas DAX - Power BI | [Link](https://excelparaestagio.klickpages.com.br/inscricao-minicurso-formulasdax-power-bi?origemurl=hashtag_free_org_minicursoformulasdax) | Aprenda fórmulas DAX para Power BI. |
 | Hashtag Treinamentos | Minicurso de Gráficos no Power BI | [Link](https://excelparaestagio.klickpages.com.br/inscricao-minicurso-graficos-power-bi?origemurl=hashtag_free_org_minicursograficopb) | Foco na criação de gráficos no Power BI. |
 | Hashtag Treinamentos | Minicurso de Dashboard - Power BI | [Link](https://pages.hashtagtreinamentos.com/inscricao-minicursopbi-dashboard?origemurl=hashtag_free_org_minidashpbi) | Aprenda a construir dashboards no Power BI. |
+| Udemy | Power BI para Todos: Fácil e Simples | [Link](https://www.udemy.com/course/power-bi-para-todos-facil-e-simples/) | Você vai aprender os fundamentos do Power BI, desde conceitos de Business Intelligence, Big Data e IA, até importar dados, criar dashboards interativos e publicar relatórios. |
 
 
 ## Python 
