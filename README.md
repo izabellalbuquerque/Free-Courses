@@ -140,6 +140,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Data Science - Visualização de Dados com Python | [Link](https://www.udemy.com/course/visualizacao-de-dados-com-python/)| Aprenda a criar gráficos e visualizar dados em Python com Matplotlib, usando exemplos práticos e dados reais. |
 | Udemy | Ciência de Dados | [Link](https://www.udemy.com/course/ciencia-de-dados-como-comecar/)| Você vai aprender os fundamentos da ciência de dados, incluindo análise exploratória de dados, regressão linear e conceitos básicos de machine learning. |
 | Udemy | Introdução a Data Mining - Mineração de dados | [Link](https://www.udemy.com/course/introducao-a-data-mining-mineracao-de-dados/)| Você vai aprender os fundamentos de Data Mining e como aplicar técnicas como classificação, agrupamento e regras de associação na prática. |
+| Udemy | Data Science para Iniciantes - Fácil e Simples | [Link](https://www.udemy.com/course/data-science-para-iniciantes-facil-e-simples/)| Você vai aprender análise exploratória de dados, regressão linear e conceitos básicos de machine learning, com foco em aplicação prática para iniciantes. |
 
 ## Cibersegurança
 
