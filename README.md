@@ -486,7 +486,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Ruby para Iniciantes | [Link](https://www.udemy.com/course/ruby-para-iniciantes/) | Curso de Ruby para iniciantes. |
 | Cursou | Curso de Ruby | [Link](https://www.cursou.com.br/informatica/ruby/) | Curso de programação em Ruby. |
 
-## SQL
+## Spring Boot
 
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
