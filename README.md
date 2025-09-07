@@ -53,6 +53,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [Linux](#linux)
 - [Lógica de Programação e Algoritmos](#lógica-de-programação-e-algoritmos)
 - [Machine Learning](#machine-learning)
+- [Mineração de Dados](#mineração-de-dados)
 - [Node.js](#nodejs)
 - [PHP](#php)
 - [Power Apps](#power-apps)
@@ -62,6 +63,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [React](#react)
 - [Redes](#redes)
 - [Ruby](#ruby)
+- [Spring Boot](#spring-boot)
 - [SQL](#sql)
 - [Swift (iOS)](#swift-ios)
 - [Tailwind CSS](#tailwind-css)
@@ -139,7 +141,6 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | EuCapacito | Ciência de Dados | [Link](https://eucapacito.com.br/cursos/ciencia-de-dados)| Você vai explorar todo o ciclo de análise: da coleta à visualização, usando SQL, Python, Pandas e Plotly com dados do governo. |
 | Udemy | Data Science - Visualização de Dados com Python | [Link](https://www.udemy.com/course/visualizacao-de-dados-com-python/)| Aprenda a criar gráficos e visualizar dados em Python com Matplotlib, usando exemplos práticos e dados reais. |
 | Udemy | Ciência de Dados | [Link](https://www.udemy.com/course/ciencia-de-dados-como-comecar/)| Você vai aprender os fundamentos da ciência de dados, incluindo análise exploratória de dados, regressão linear e conceitos básicos de machine learning. |
-| Udemy | Introdução a Data Mining - Mineração de dados | [Link](https://www.udemy.com/course/introducao-a-data-mining-mineracao-de-dados/)| Você vai aprender os fundamentos de Data Mining e como aplicar técnicas como classificação, agrupamento e regras de associação na prática. |
 | Udemy | Data Science para Iniciantes - Fácil e Simples | [Link](https://www.udemy.com/course/data-science-para-iniciantes-facil-e-simples/)| Você vai aprender análise exploratória de dados, regressão linear e conceitos básicos de machine learning, com foco em aplicação prática para iniciantes. |
 
 ## Cibersegurança
@@ -397,6 +398,12 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Machine Learning e Data Science: O guia para iniciantes | [Link](https://www.udemy.com/course/guia-iniciantes-machine-learning-data-science/) | Você vai aprender os fundamentos de Machine Learning e Data Science, usando a ferramenta visual Orange para aplicar algoritmos de forma prática e intuitiva. |
 | YouTube | Machine Learning | [Link](https://www.youtube.com/playlist?list=PLvlkVRRKOYFR6_LmNcJliicNan2TYeFO2) | Você vai aprender o que é aprendizado de máquina e conhecer os principais algoritmos. Playlist de vídeos gratuita feita pelo professor Téo |
 
+## Mineração de Dados
+
+| Provedor | Nome do Curso | Link | Descrição |
+|----------|---------------|------|-----------|
+| Udemy | Introdução a Data Mining - Mineração de dados | [Link](https://www.udemy.com/course/introducao-a-data-mining-mineracao-de-dados/)| Você vai aprender os fundamentos de Data Mining e como aplicar técnicas como classificação, agrupamento e regras de associação na prática. |
+
 ## Node.js
 
 | Provedor | Nome do Curso | Link | Descrição |
@@ -479,6 +486,11 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Ruby para Iniciantes | [Link](https://www.udemy.com/course/ruby-para-iniciantes/) | Curso de Ruby para iniciantes. |
 | Cursou | Curso de Ruby | [Link](https://www.cursou.com.br/informatica/ruby/) | Curso de programação em Ruby. |
 
+## SQL
+
+| Provedor | Nome do Curso | Link | Descrição |
+|----------|---------------|------|-----------|
+| Apoia | Spring Boot | [Link](https://www.apoia.com.br/cursos/tecnologia/curso-de-spring-boot-9131a/?utm_source=google_ads&utm_campaign=pt-BR_icp_3&utm_medium=search&gad_source=1&gad_campaignid=22601387736&gbraid=0AAAAA_ogugspHEJCgOCx48puponEB7ey_&gclid=Cj0KCQjwzaXFBhDlARIsAFPv-u-igCMwM2zBLsD3pifiax3E5stzw3GEeA5SbmTAQuRw-qcRuN6bNLsaAiklEALw_wcB) | Você vai aprender a criar APIs REST com banco de dados, usar Spring Data JPA, H2, Swagger e Postman, aplicando boas práticas para desenvolver sistemas escaláveis. |
 
 ## SQL
 
