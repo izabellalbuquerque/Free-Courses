@@ -336,6 +336,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Java para Iniciantes - Fundamentos, POO e Projeto | [Link](https://udemy.com/course/java-para-iniciantes-fundamentos-poo-e-projeto/)| Você vai aprender a instalar Java, criar seu primeiro programa, usar condicionais, loops e programação orientada a objetos para desenvolver projetos. |
 | Udemy | Java - Mini curso para iniciantes| [Link](https://udemy.com/course/java-mini-curso-para-iniciantes/)| Você vai aprender orientação a objetos em Java, usar o IntelliJ, criar classes e métodos, e trabalhar com variáveis, operadores e exceções. |
 | Udemy | Aprenda a Programar para Android com Java | [Link](https://www.udemy.com/course/programarandroid/)| Você vai aprender a desenvolver aplicativos Android com Java, criando layouts, telas, botões e gerando APKs. |
+| Udemy | Programação de C a VB .Net - Linguagem Java | [Link](https://www.udemy.com/course/programacao-de-c-a-vbnet-linguagem-java/)| Você vai aprender os fundamentos de Java, incluindo variáveis, estruturas de controle, funções e orientação a objetos. |
 
 ## Kotlin (Android)
 
