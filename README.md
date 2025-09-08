@@ -457,6 +457,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Introdução à linguagem Python | [Link](https://www.udemy.com/course/intro_python/)| Aprenda os fundamentos do Python, incluindo variáveis, estruturas de controle e lógica para criar programas simples. |
 | EAD Education | Python | [Link](https://ead.education/course/python/)| Você vai aprender os fundamentos de Python, incluindo lógica de programação, estruturas de controle, funções, manipulação de dados e resolução de problemas práticos. |
 | Udemy | Python Básico para iniciantes | [Link](https://www.udemy.com/course/python-basico-para-iniciantes-o/)| Você vai aprender os fundamentos da linguagem Python, incluindo variáveis, tipos de dados, estruturas condicionais, loops, listas, funções e manipulação de módulos e pacotes. |
+| Udemy | Aulão de Python - Introdução à Linguagem para Dados | [Link](https://www.udemy.com/course/cursoaulao-de-python-introducao-a-linguagem-para-dados/)| Você vai aprender os fundamentos da linguagem Python, incluindo lógica de programação, estruturas de dados, controle de fluxo e funções. |
 
 ## QA - Testes de Software
 
