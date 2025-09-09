@@ -326,6 +326,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 |----------|---------------|------|-----------|
 | Santander Open Academy | Introdução à IA Generativa | [Link](https://santanderopenacademy.com/pt_br/courses/generative-artificial-intelligence.html) | Aprenda sobre IA generativa, ética e privacidade de dados, análise de sentimento e como aplicar tudo isso nas operações comerciais cotidianas. |
 | Escola Virtual Gov | Inteligência Artificial Generativa | [Link](https://www.escolavirtual.gov.br/curso/1091) | Aprenda o que é IA generativa, como ela cria textos e imagens, suas aplicações práticas e o impacto no mercado de trabalho. |
+| Udemy | Boas práticas essenciais em IA Generativa | [Link](https://www.udemy.com/course/boas-praticas-essenciais-em-ia-generativa/) | Você vai aprender o que é Inteligência Artificial Generativa e como usá-la com boas práticas, criando prompts eficazes, avaliando respostas e aplicando uso ético e responsável.|
 
 ## Java
 
