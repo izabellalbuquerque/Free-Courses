@@ -55,6 +55,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [Machine Learning](#machine-learning)
 - [Mineração de Dados](#mineração-de-dados)
 - [Node.js](#nodejs)
+- [N8N](#n8n)
 - [PHP](#php)
 - [Power Apps](#power-apps)
 - [Power BI](#power-bi)
@@ -410,9 +411,15 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
-| Cursa | Curso de Node.js | [Link](https://cursa.com.br/home/course/curso-de-node-js-grátis/91) | Aprenda a criar qualquer sistema web com Node.js e JavaScript na prática. |
+| Cursa | Curso de Node.js | [Link](https://cursa.com.br/home/course/curso-de-node-js-grátis/91) | Aprenda a criar qualquer sistema web com Node.js e JavaScript na prática.|
 | EAD Education | Curso de Node.js | [Link](https://ead.education/course/node-js/) | Aprenda Node.js para desenvolvimento web. |
 | YouTube | Curso de Node.js para Iniciantes | [Link](https://www.youtube.com/watch?v=IOfDoyP1Aq0) | Curso de Node.js para iniciantes pelo Professor Felipe Rocha. |
+
+## N8N
+
+| Provedor | Nome do Curso | Link | Descrição |
+|----------|---------------|------|-----------|
+| Udemy | N8N Para Iniciantes | [Link](https://www.udemy.com/course/n8n-para-iniciantes/) | Você vai aprender a usar o n8n para criar automações visuais, integrando aplicativos e serviços sem precisar programar.|
 
 ## PHP 
 
