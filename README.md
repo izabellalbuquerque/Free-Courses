@@ -88,7 +88,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | GINEAD | Android para Iniciantes | [Link](https://ginead.com.br/curso/curso-android-para-iniciantes) | Aprenda a configurar o Android Studio, criar apps básicos, usar componentes e executar no emulador e smartphone. |
-| Unicamp | Programação Android | [Link](https://moocs.ggte.unicamp.br/course/android/intro) | Curso gratuito da Unicamp sobre programação Android. |
+| Unicamp | Programação Android | [Link](https://moocs.ggte.unicamp.br/course/android/intro) | Você vai aprender a criar aplicativos Android, abordando conceitos básicos de programação, interface, recursos do sistema e boas práticas no desenvolvimento mobile.|
 | Google for Developers | Noções básicas do Android com o Compose - Oficial do Google | [Link](https://developer.android.com/courses/android-basics-compose/course?hl=pt-br) | Você vai aprender a criar apps Android do zero usando Kotlin e Jetpack Compose, desenvolver interfaces modernas, aplicar boas práticas e gerenciar navegação entre telas. |
 | Udemy | Desenvolvimento Android - Configurando o Android Studio | [Link](https://www.udemy.com/course/desenvolvimento-android-configurando-o-android-studio/) | Você vai aprender a configurar o Android Studio e preparar dispositivos para desenvolver aplicativos Android. |
 
@@ -96,7 +96,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
-| Unicamp | Desenvolvimento Web com AngularJS | [Link](https://moocs.ggte.unicamp.br/course/desenvolvimento-web-com-angularjs/intro) | Curso gratuito da Unicamp sobre desenvolvimento web com AngularJS. |
+| Unicamp | Desenvolvimento Web com AngularJS | [Link](https://moocs.ggte.unicamp.br/course/desenvolvimento-web-com-angularjs/intro) | Você vai aprender a desenvolver aplicações web com AngularJS, entendendo conceitos de front-end, criação de componentes, uso de diretivas e serviços, além de aplicar boas práticas no desenvolvimento. |
 | Suprema | AngularJS completo | [Link](https://supremaux.com/curso-completo-e-gratuito-de-angularjs/) | Você vai aprender a desenvolver aplicações web dinâmicas com AngularJS, um dos principais frameworks JavaScript do mercado. |
 | Codecademy | AngularJS 1.X | [Link](https://www.codecademy.com/learn/learn-angularjs) | Aprenda a criar aplicações web dinâmicas com AngularJS 1.X, usando o padrão MVC, directives, services e routing, por meio de projetos práticos e interativos. |
 
@@ -113,17 +113,17 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
-| Balta.io | Fundamentos do C# | [Link](https://balta.io/cursos/fundamentos-csharp) | Aprenda ou reforce os fundamentos de C# e .NET. |
-| EAD Education | Programação em C# | [Link](https://ead.education/course/programacao-em-c/) | Curso de programação em C#. |
-| Udemy | Cursos de C# | [Link](https://www.udemy.com/pt/topic/c-sharp/free/) | Cursos e tutoriais gratuitos de C#. |
+| Balta.io | Fundamentos do C# | [Link](https://balta.io/cursos/fundamentos-csharp) | Você vai aprender os fundamentos do C# e da plataforma .NET, incluindo variáveis, tipos de dados, estruturas de controle, orientação a objetos e boas práticas para desenvolvimento. |
+| EAD Education | Programação em C# | [Link](https://ead.education/course/programacao-em-c/) | Você vai aprender programação em C#, abordando conceitos de variáveis, tipos de dados, estruturas de controle, métodos, orientação a objetos e boas práticas de desenvolvimento. |
+| Udemy | Cursos de C# | [Link](https://www.udemy.com/pt/topic/c-sharp/free/) | Você vai aprender C# por meio de cursos e tutoriais gratuitos, explorando conceitos de programação, orientação a objetos, manipulação de dados e boas práticas de desenvolvimento. |
 
 ## C++
 
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
-| CMM Progressivo | Curso de C++ Completo | [Link](https://www.cmmprogressivo.net/p/curso-de-c-completo-online-e-gratis.html) | Curso abrangente de C++. |
-| Udemy | Curso de C++ - Intermediário | [Link](https://www.udemy.com/course/cplusplus-intermediario/) | Curso intermediário de C++. |
-| Cursou | Curso de C++ | [Link](https://www.cursou.com.br/informatica/programacao/c-cc/) | Curso de programação em C++. |
+| CMM Progressivo | Curso de C++ Completo | [Link](https://www.cmmprogressivo.net/p/curso-de-c-completo-online-e-gratis.html) | Você vai aprender C++ de forma completa, incluindo conceitos de programação, estruturas de dados, orientação a objetos, manipulação de memória e boas práticas no desenvolvimento. |
+| Udemy | Curso de C++ - Intermediário | [Link](https://www.udemy.com/course/cplusplus-intermediario/) | Você vai aprofundar seus conhecimentos em C++, explorando orientação a objetos, manipulação de arquivos, funções avançadas e técnicas de programação intermediária. |
+| Cursou | Curso de C++ | [Link](https://www.cursou.com.br/informatica/programacao/c-cc/) | Você vai aprender a programar em C++ de forma prática, cobrindo conceitos essenciais, estruturas de controle, funções, orientação a objetos e boas práticas de codificação. |
 
 ## Chatbots
 
@@ -151,16 +151,16 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | FGV | Cibersegurança: Anatomia Clássica de um Ciberataque | [Link](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/ciberseguranca-anatomia-classica-de-um-ciberataque) | Aprenda sobre o uso da TI nas empresas, ameaças cibernéticas, maturidade em gestão de TI e como ocorrem os ataques. |
 | Securiti | Curso de Segurança e Governança de IA | [Link](https://education.securiti.ai/certifications/ai-governance/) | Você aprenderá conceitos fundamentais de governança de IA, incluindo generative AI, leis globais de IA, conformidade, gestão de riscos e frameworks de governança para inovação responsável. |
 | Securiti | Curso de Operações de Privacidade | [Link](https://education.securiti.ai/certifications/privacyops/) | Você aprenderá conceitos centrais de leis globais de privacidade de dados, o processo de operacionalização da privacidade em organizações e o papel da automação na gestão de privacidade. |
-| Securiti | Curso de Centro de Comando de Dados | [Link](https://education.securiti.ai/certifications/data-command-center-certification/) | Aprenda sobre operações de centro de comando de dados. |
+| Securiti | Curso de Centro de Comando de Dados | [Link](https://education.securiti.ai/certifications/data-command-center-certification/) | Você vai aprender sobre operações em um Centro de Comando de Dados, incluindo monitoramento, gestão de dados, análise de incidentes e boas práticas de segurança e governança da informação. |
 | Securiti | Curso de Segurança - Fundamentos | [Link](https://education.securiti.ai/certifications/securiti-fundamentals/) | Você aprenderá uma visão técnica dos produtos da Securiti, como Sensitive Data Intelligence, Data Subject Rights Robotic Automation e Data Mapping, em um formato condensado. |
 | Securiti | Curso de Segurança - Avançado | [Link](https://education.securiti.ai/certifications/securiti-advanced-course/) | Você aprenderá a instalar, configurar e administrar soluções da plataforma Securiti, incluindo Sensitive Data Intelligence, Data Subject Rights, Universal Consent Management, Data Mapping, e mais. |
 | Esecurity | Introdução à Segurança da Informação | [Link](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Você aprenderá fundamentos de segurança (confidencialidade, integridade, autenticidade, disponibilidade), protocolos (TCP/UDP), redes, virtualização com Kali Linux, IDS/IPS, firewalls e UTMs, com prática em laboratórios. |
 | Girl Security & Microsoft | Encontrando seus Superpoderes de Segurança Cibernética | [Link](https://girlsecurity.thinkific.com/courses/finding-your-cybersecurity-superpowers-with-girl-security-and-microsoft-security) | Você explorará fundamentos de cibersegurança, diversidade na área, sua identidade no contexto cyber, desafios de segurança digital e ransomware por meio de 28 lições interativas, incluindo atividades práticas como o exercício de ransomware e reflexões sobre seu "DNA digital". |
 | Girl Security | Um Guia para Meninas sobre Segurança Eleitoral | [Link](https://girlsecurity.thinkific.com/courses/electionsecurityguide) | Você aprenderá sobre segurança eleitoral, desinformação, segurança nacional, impactos em comunidades de cor, táticas de desinformação, deepfakes e verificação de informações com o modelo "SEA" (Securing, Empowering, Advancing). |
-| Girl Security | Desinformação, Cibersegurança e Democracia | [Link](https://girlsecurity.thinkific.com/courses/disinformation-cybersecurity-and-democracy) | Explore a desinformação e seu impacto na cibersegurança e democracia. |
-| YouTube | Curso Gratuito de CyberSec | [Link](https://youtube.com/playlist?list=PL5LEt1ZcsDMZH5BltS_MTKGJio5W3houR&si=Hb6HjcfSt2V3swRa) | 14 aulas em vídeo com mais de 1 hora de conteúdo cada. |
-| Udemy | Cursos Gratuitos de CyberSecurity | [Link](https://www.udemy.com/pt/topic/cyber-security/free/) | Cursos e tutoriais introdutórios gratuitos sobre cibersegurança.|
-| Cisco Networking Academy | Ethical Hacker | [Link](https://netacad.com/pt/courses/ethical-hacker?courseLang=en-US) | Aprenda segurança ofensiva para descobrir ameaças e vulnerabilidades cibernéticas. |
+| Girl Security | Desinformação, Cibersegurança e Democracia | [Link](https://girlsecurity.thinkific.com/courses/disinformation-cybersecurity-and-democracy) | Você vai aprender sobre desinformação e seu impacto na cibersegurança e na democracia, entendendo técnicas de disseminação de informação falsa, riscos digitais e estratégias de proteção e conscientização. |
+| YouTube | Curso Gratuito de CyberSec | [Link](https://youtube.com/playlist?list=PL5LEt1ZcsDMZH5BltS_MTKGJio5W3houR&si=Hb6HjcfSt2V3swRa) | Você vai aprender conceitos fundamentais de cibersegurança, abordando ameaças digitais, técnicas de proteção, segurança de redes e boas práticas para se manter seguro online. |
+| Udemy | Cursos Gratuitos de CyberSecurity | [Link](https://www.udemy.com/pt/topic/cyber-security/free/) | Você vai aprender fundamentos de cibersegurança por meio de cursos e tutoriais gratuitos, incluindo proteção de dados, segurança de redes, prevenção de ataques e boas práticas para manter sistemas seguros.|
+| Cisco Networking Academy | Ethical Hacker | [Link](https://netacad.com/pt/courses/ethical-hacker?courseLang=en-US) | Você vai aprender técnicas de segurança ofensiva, identificando ameaças e vulnerabilidades cibernéticas, realizando testes de penetração e aplicando práticas de ethical hacking para proteger sistemas e redes. |
 | Santander/Coursera | Data and Cybersecurity | [Link](https://app.santanderopenacademy.com/pt-BR/program/coursera-data-and-cybersecurity) | Aprofunde-se em Ciência de Dados e Segurança Cibernética com 2.000 vagas gratuitas oferecidas pelo Santander em parceria com a Coursera. |
 | Cursa | Introdução ao Hacking e Pentest 2.0 | [Link](https://cursa.com.br/home/course/curso-introdu%C3%A7%C3%A3o-ao-hacking-e-pentest-2-0/380) | Você vai aprender fundamentos de hacking ético e pentest, incluindo exploração de vulnerabilidades e pós-exploração. |
 | Up Cursos | Cibersegurança | [Link](https://upcursosgratis.com.br/curso-online-gratis/ciberseguranca) | Você vai aprender fundamentos de segurança da informação, criptografia, firewall, auditoria e boas práticas para manter sistemas seguros. |
@@ -196,8 +196,8 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | EuCapacito | Engenharia de Software | [Link](https://eucapacito.com.br/cursos/engenharia-de-software/) | Aprenda técnicas para garantir a qualidade do software, além de conhecer processos de desenvolvimento, levantamento de requisitos, UML, casos de uso, HTML e CSS. |
-| Unicamp | Arquitetura da Informação e Projeto de Sistemas | [Link](https://moocs.ggte.unicamp.br/course/arquiteturadainformacao/intro) | Curso gratuito da Unicamp sobre arquitetura da informação e projeto de sistemas. |
-| Unicamp | Boas Práticas em Desenvolvimento de Software | [Link](https://moocs.ggte.unicamp.br/course/boas-praticas-em-desenvolimento-de-software/intro) | Curso gratuito da Unicamp sobre boas práticas em desenvolvimento de software. |
+| Unicamp | Arquitetura da Informação e Projeto de Sistemas | [Link](https://moocs.ggte.unicamp.br/course/arquiteturadainformacao/intro) | Você vai aprender conceitos de arquitetura da informação e projeto de sistemas, incluindo organização de conteúdo, usabilidade, design de interfaces e boas práticas para estruturar sistemas eficientes e intuitivos. |
+| Unicamp | Boas Práticas em Desenvolvimento de Software | [Link](https://moocs.ggte.unicamp.br/course/boas-praticas-em-desenvolimento-de-software/intro) | Você vai aprender boas práticas em desenvolvimento de software, incluindo padrões de codificação, versionamento, testes, documentação e técnicas para criar sistemas mais eficientes, seguros e manuteníveis. |
 | Estudar Fora | Ciência da Computação de Harvard - CC50 | [Link](https://paginas.estudarfora.org.br/cc50-v2) | Aprenda lógica e resolução de problemas, algoritmos e estruturas de dados, programação com C, Python, SQL, JS, HTML e CSS, além de engenharia de software e segurança. |
 
 
@@ -206,7 +206,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | Professor Isidro | Curso Completo de Estrutura de Dados | [Link](https://www.professorisidro.com.br/curso/estruturas-de-dados/) | Estude tópicos fundamentais de estruturas de dados com implementações em Java e C, incluindo conceitos de orientação a objetos. |
-| Udemy | Cursos Gratuitos de Estrutura de Dados | [Link](https://www.udemy.com/pt/topic/data-structures/free/) | Cursos e tutoriais gratuitos sobre estruturas de dados. |
+| Udemy | Cursos Gratuitos de Estrutura de Dados | [Link](https://www.udemy.com/pt/topic/data-structures/free/) | Você vai aprender conceitos e aplicações de estruturas de dados por meio de cursos e tutoriais gratuitos, incluindo listas, pilhas, filas, árvores, grafos e boas práticas para organizar e manipular informações de forma eficiente.|
 | EAD Education | Curso de Estrutura de Dados | [Link](https://ead.education/course/estrutura-de-dados-e-algoritmos-com-java/) | Aprenda sobre arrays, pilhas, filas, listas encadeadas, tabelas hash, árvores, grafos e algoritmos de ordenação e busca. |
 
 ## Excel
