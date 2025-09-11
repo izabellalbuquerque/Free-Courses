@@ -293,6 +293,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 |----------|---------------|------|-----------|
 | Ginead | Inglês Intermediário | [Link](https://ginead.com.br/curso/curso-de-ingles-intermediario-online-gratis)| Você vai aprender sobre rotinas diárias em inglês, uso do Present Simple, verbos de rotina, WH-questions, advérbios de frequência, como falar as horas e o verbo to be. |
 | Kultivi | Inglês completo | [Link](https://kultivi.com/cursos/idiomas/ingles)| Você vai aprender vocabulário, gramática, conversação e compreensão auditiva com apoio de professores nativos e brasileiros. Ideal para iniciantes e intermediários, com acesso vitalício e certificado gratuito. |
+| Unova Cursos | Inglês Intermediário | [Link](https://www.unovacursos.com.br/curso/ingles-intermediario)| Você vai aprender Inglês Intermediário, aprimorando vocabulário, gramática, leitura, conversação e compreensão auditiva para se comunicar com mais fluência e confiança. |
 
 ### Espanhol
 | Provedor | Nome do Curso | Link | Descrição |
@@ -328,6 +329,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Santander Open Academy | Introdução à IA Generativa | [Link](https://santanderopenacademy.com/pt_br/courses/generative-artificial-intelligence.html) | Aprenda sobre IA generativa, ética e privacidade de dados, análise de sentimento e como aplicar tudo isso nas operações comerciais cotidianas. |
 | Escola Virtual Gov | Inteligência Artificial Generativa | [Link](https://www.escolavirtual.gov.br/curso/1091) | Aprenda o que é IA generativa, como ela cria textos e imagens, suas aplicações práticas e o impacto no mercado de trabalho. |
 | Udemy | Boas práticas essenciais em IA Generativa | [Link](https://www.udemy.com/course/boas-praticas-essenciais-em-ia-generativa/) | Você vai aprender o que é Inteligência Artificial Generativa e como usá-la com boas práticas, criando prompts eficazes, avaliando respostas e aplicando uso ético e responsável.|
+| Udemy | Inteligência Artificial, Gen AI e Engenharia de Prompt | [Link](https://www.udemy.com/course/inteligencia-artificial-engenharia-de-prompt-gen-ai-gratuito/) | Você vai aprender os fundamentos da IA generativa e técnicas de engenharia de prompt para criar instruções eficazes e aplicá-las em diferentes áreas.|
 
 ## Java
 
@@ -350,6 +352,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Aprenda o Básico da Linguagem Kotlin | [Link](https://www.udemy.com/course/kotlin-aprenda-do-zero-modulo-basico/) | Aprenda os fundamentos do Kotlin. |
 | GINEAD | Android para Iniciantes | [Link](https://ginead.com.br/curso/curso-android-para-iniciantes) | Aprenda a configurar o Android Studio, criar apps básicos, usar componentes e executar no emulador e smartphone. |
 | Unicamp | Programação Android | [Link](https://moocs.ggte.unicamp.br/course/android/intro) | Curso gratuito da Unicamp sobre programação Android. |
+| Udemy | Início ao Desenvolvimento de Aplicativos Android com Kotlin | [Link](https://www.udemy.com/course/desenvolvedor-kotlin-iniciante/) | Você vai aprender os fundamentos da linguagem Kotlin, incluindo variáveis, funções, estruturas condicionais e orientação a objetos. |
 
 ## Laravel
 
@@ -381,6 +384,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 |----------|---------------|------|-----------|
 | Esecurity | Kali Linux for Beginners | [Link](https://esecurity.com.br/cursos/kali-linux-for-beginners/) | Você vai aprender os fundamentos do Kali Linux, desde a instalação em máquina virtual, primeiros comandos e gerenciamento de arquivos, até configuração de rede, permissões e pacotes, preparando a base para testes de intrusão e segurança ofensiva. |
 | Cursa | Linux - Primeiros Passos | [Link](https://cursa.com.br/home/course/curso-de-linux-primeiros-passos-por-curso-em-v%C3%ADdeo/41) | Você vai aprender os fundamentos do Linux, incluindo instalação do Linux Mint, uso do terminal, gerenciamento de arquivos e dispositivos, além de instalar programas e explorar o sistema |
+| Udemy | Introdução ao Sistema Linux | [Link](https://www.udemy.com/course/introducao-ao-sistema-linux/) | Você vai aprender a instalar o Linux, usar o terminal com comandos básicos para navegar e gerenciar arquivos, instalar programas e entender noções de permissões e segurança. |
 
 ## Lógica de Programação e Algoritmos
 
@@ -447,6 +451,8 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Hashtag Treinamentos | Minicurso de Gráficos no Power BI | [Link](https://excelparaestagio.klickpages.com.br/inscricao-minicurso-graficos-power-bi?origemurl=hashtag_free_org_minicursograficopb) | Foco na criação de gráficos no Power BI. |
 | Hashtag Treinamentos | Minicurso de Dashboard - Power BI | [Link](https://pages.hashtagtreinamentos.com/inscricao-minicursopbi-dashboard?origemurl=hashtag_free_org_minidashpbi) | Aprenda a construir dashboards no Power BI. |
 | Udemy | Power BI para Todos: Fácil e Simples | [Link](https://www.udemy.com/course/power-bi-para-todos-facil-e-simples/) | Você vai aprender os fundamentos do Power BI, desde conceitos de Business Intelligence, Big Data e IA, até importar dados, criar dashboards interativos e publicar relatórios. |
+| Udemy | Power BI - Do Zero ao Dashboard | [Link](https://www.udemy.com/course/power-bi-do-zero-ao-dashboard/) | Você vai aprender a usar o Power BI desde o básico, criar modelos de dados, conectar fontes, construir visualizações e desenvolver dashboards completos. |
+
 
 
 ## Python 
@@ -480,6 +486,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | Udemy | React JS Para Iniciantes - Com exercícios e Projeto | [Link](https://udemy.com/course/react-js-para-iniciantes-com-exercicios-e-projeto/)| Você vai aprender os fundamentos do React JS, como JSX, componentes, hooks (useState e useEffect), estrutura de projetos com Vite e boas práticas. |
+| Udemy |  React para Iniciantes | [Link](https://www.udemy.com/course/react-para-iniciantes-free/)| Você vai aprender os fundamentos do React na prática, criando um quadro Kanban do zero e usando conceitos como JSX, componentes, props, state, hooks e eventos. |
 
 ## Redes
 
@@ -538,6 +545,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | YouTube | Curso de TypeScript | [Link](https://www.youtube.com/watch?v=ppDsxbUNtNQ) | Curso de TypeScript pelo Professor Felipe Rocha. |
 | DevMedia | Curso de TypeScript | [Link](https://www.devmedia.com.br/curso/curso-de-typescript/422) | Aprenda conceitos de TypeScript com um projeto prático em ASP.NET. |
 | Microsoft | Introdução ao TypeScript | [Link](https://learn.microsoft.com/pt-br/training/modules/typescript-get-started/) | Introdução ao TypeScript pela Microsoft. |
+| Udemy | Dominando o Typescript - Guia passo à passo | [Link](https://www.udemy.com/course/dominando-o-typescript-guia-passo-a-passo/) | Você vai aprender TypeScript do básico ao avançado, dominando tipos, classes, funções, interfaces e integração com frameworks como React, Node.js e Angular. |
 
 ## UX e UI Design
 
