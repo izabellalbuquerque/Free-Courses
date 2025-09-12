@@ -385,6 +385,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Esecurity | Kali Linux for Beginners | [Link](https://esecurity.com.br/cursos/kali-linux-for-beginners/) | Você vai aprender os fundamentos do Kali Linux, desde a instalação em máquina virtual, primeiros comandos e gerenciamento de arquivos, até configuração de rede, permissões e pacotes, preparando a base para testes de intrusão e segurança ofensiva. |
 | Cursa | Linux - Primeiros Passos | [Link](https://cursa.com.br/home/course/curso-de-linux-primeiros-passos-por-curso-em-v%C3%ADdeo/41) | Você vai aprender os fundamentos do Linux, incluindo instalação do Linux Mint, uso do terminal, gerenciamento de arquivos e dispositivos, além de instalar programas e explorar o sistema |
 | Udemy | Introdução ao Sistema Linux | [Link](https://www.udemy.com/course/introducao-ao-sistema-linux/) | Você vai aprender a instalar o Linux, usar o terminal com comandos básicos para navegar e gerenciar arquivos, instalar programas e entender noções de permissões e segurança. |
+| Udemy | Linux Essentials - Primeiros passos, interface e comandos | [Link](https://www.udemy.com/course/linux-essentials-primeiros-passos-interface-e-comandos/) | Você vai aprender os fundamentos do Linux: software livre, distribuições, instalação do Ubuntu, uso da interface e comandos básicos no terminal. |
 
 ## Lógica de Programação e Algoritmos
 
