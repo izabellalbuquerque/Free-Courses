@@ -99,6 +99,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Unicamp | Desenvolvimento Web com AngularJS | [Link](https://moocs.ggte.unicamp.br/course/desenvolvimento-web-com-angularjs/intro) | Você vai aprender a desenvolver aplicações web com AngularJS, entendendo conceitos de front-end, criação de componentes, uso de diretivas e serviços, além de aplicar boas práticas no desenvolvimento. |
 | Suprema | AngularJS completo | [Link](https://supremaux.com/curso-completo-e-gratuito-de-angularjs/) | Você vai aprender a desenvolver aplicações web dinâmicas com AngularJS, um dos principais frameworks JavaScript do mercado. |
 | Codecademy | AngularJS 1.X | [Link](https://www.codecademy.com/learn/learn-angularjs) | Aprenda a criar aplicações web dinâmicas com AngularJS 1.X, usando o padrão MVC, directives, services e routing, por meio de projetos práticos e interativos. |
+| Udemy | Angular 9 Essencial | [Link](https://www.udemy.com/course/angular-9-essencial/) | Você vai aprender os fundamentos do Angular 9: como instalar, configurar e desenvolver aplicações com componentes, diretivas, rotas, formulários e consumo de APIs REST. |
 
 
 ## Business Intelligence
