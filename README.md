@@ -82,6 +82,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Edune | Análise de Dados | [Link](https://www.edunecursos.com.br/curso/analise-de-dados) | Você vai aprender análise de dados do zero ao avançado: SQL, estatística, visualização, machine learning, NLP, big data e Power BI. |
 | Coursera | Certificado Profissional de Análise de dados do Google | [Link](https://www.coursera.org/professional-certificates/google-data-analytics) | Você vai aprender fundamentos de análise de dados, uso de planilhas, SQL, Tableau e R, além de limpeza, visualização e interpretação de dados. |
 | Unova Cursos | Análise de Dados | [Link](https://www.unovacursos.com.br/curso/analise-de-dados) | Você vai aprender desde a coleta e limpeza de dados até técnicas avançadas como machine learning, análise de séries temporais, NLP e visualização com Power BI. |
+| Udemy | Análise de Dados com Power BI | [Link](https://www.udemy.com/course/analise-de-dados-com-power-bi/) | Você vai aprender a analisar dados com Power BI, criando dashboards interativos e manipulando dados de forma prática. |
 
 ## Android
 
