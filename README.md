@@ -25,6 +25,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [C#](#c)
 - [C++](#c-1)
 - [Chatbots](#chatbots)
+- [Chat GPT](#chat-gpt)
 - [Ciência de Dados](#ciência-de-dados)
 - [Cibersegurança](#cibersegurança)
 - [Cloud / AWS](#cloud--aws)
@@ -133,6 +134,12 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 |----------|---------------|------|-----------|
 | EuCapacito | Chatbots | [Link](https://eucapacito.com.br/cursos/chatbots/) | Aprenda a criar chatbots usando IA, explorar plataformas como o IBM Watson, integrar com redes sociais, analisar métricas e aplicar conceitos de UX, VUI e LLMs. |
 | EAD Education | Chatbot para iniciantes | [Link](https://ead.education/course/chatbot-para-iniciantes/) | Você vai aprender a criar assistentes virtuais do zero, entendendo como funcionam, quais ferramentas usar e como engajar os usuários com interações automatizadas. |
+
+## Chat GPT
+
+| Provedor | Nome do Curso | Link | Descrição |
+|----------|---------------|------|-----------|
+| Unova Cursos | ChatGPT para Iniciantes | [Link](https://www.unovacursos.com.br/curso/chatgpt-para-iniciantes) | Você vai aprender a utilizar o ChatGPT para otimizar seus estudos, criar resumos e melhorar sua produtividade.|
 
 ## Ciência de Dados
 
