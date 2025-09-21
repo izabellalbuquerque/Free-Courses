@@ -140,6 +140,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | Unova Cursos | ChatGPT para Iniciantes | [Link](https://www.unovacursos.com.br/curso/chatgpt-para-iniciantes) | Você vai aprender a utilizar o ChatGPT para otimizar seus estudos, criar resumos e melhorar sua produtividade.|
+| Udemy | Integrando ao GPT com Java + Front-end | [Link](https://www.udemy.com/course/integrando-ao-gpt-com-java-frontend-bonus/) | Você vai aprender a integrar a API GPT-3 com Java, criando uma API backend que se comunica com o modelo de linguagem da OpenAI. |
 
 ## Ciência de Dados
 
