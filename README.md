@@ -467,8 +467,6 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Power BI para Todos: Fácil e Simples | [Link](https://www.udemy.com/course/power-bi-para-todos-facil-e-simples/) | Você vai aprender os fundamentos do Power BI, desde conceitos de Business Intelligence, Big Data e IA, até importar dados, criar dashboards interativos e publicar relatórios. |
 | Udemy | Power BI - Do Zero ao Dashboard | [Link](https://www.udemy.com/course/power-bi-do-zero-ao-dashboard/) | Você vai aprender a usar o Power BI desde o básico, criar modelos de dados, conectar fontes, construir visualizações e desenvolver dashboards completos. |
 
-
-
 ## Python 
 
 | Provedor | Nome do Curso | Link | Descrição |
@@ -487,6 +485,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | EAD Education | Python | [Link](https://ead.education/course/python/)| Você vai aprender os fundamentos de Python, incluindo lógica de programação, estruturas de controle, funções, manipulação de dados e resolução de problemas práticos. |
 | Udemy | Python Básico para iniciantes | [Link](https://www.udemy.com/course/python-basico-para-iniciantes-o/)| Você vai aprender os fundamentos da linguagem Python, incluindo variáveis, tipos de dados, estruturas condicionais, loops, listas, funções e manipulação de módulos e pacotes. |
 | Udemy | Aulão de Python - Introdução à Linguagem para Dados | [Link](https://www.udemy.com/course/cursoaulao-de-python-introducao-a-linguagem-para-dados/)| Você vai aprender os fundamentos da linguagem Python, incluindo lógica de programação, estruturas de dados, controle de fluxo e funções. |
+| Udemy | Python | [Link](https://www.udemy.com/course/aprenda-python-guia-iniciante/)| Você vai aprender os fundamentos da programação com Python, incluindo variáveis, estruturas condicionais, loops, funções e manipulação de listas. |
 
 ## QA - Testes de Software
 
