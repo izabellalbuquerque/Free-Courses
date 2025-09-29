@@ -33,6 +33,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [DevOps](#devops)
 - [Engenharia de Dados](#engenharia-de-dados)
 - [Engenharia de Software](#engenharia-de-software)
+- [Entrevistas de Emprego](#entrevistas-de-emprego)
 - [Estruturas de Dados](#estruturas-de-dados)
 - [Excel](#excel)
 - [Flutter](#flutter)
@@ -211,6 +212,11 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Unicamp | Boas Práticas em Desenvolvimento de Software | [Link](https://moocs.ggte.unicamp.br/course/boas-praticas-em-desenvolimento-de-software/intro) | Você vai aprender boas práticas em desenvolvimento de software, incluindo padrões de codificação, versionamento, testes, documentação e técnicas para criar sistemas mais eficientes, seguros e manuteníveis. |
 | Estudar Fora | Ciência da Computação de Harvard - CC50 | [Link](https://paginas.estudarfora.org.br/cc50-v2) | Aprenda lógica e resolução de problemas, algoritmos e estruturas de dados, programação com C, Python, SQL, JS, HTML e CSS, além de engenharia de software e segurança. |
 
+## Entrevistas de Emprego
+
+| Provedor | Nome do Curso | Link | Descrição |
+|----------|---------------|------|-----------|
+| Udemy | Solte a Língua: English Job Interview Course | [Link](https://www.udemy.com/course/soltealingua_englishjobinterviewcourse/) | Você vai aprender a se apresentar, responder perguntas de entrevistas em inglês e usar vocabulário e expressões profissionais com confiança. |
 
 ## Estruturas de Dados
 
