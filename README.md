@@ -323,6 +323,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | Kultivi | Francês | [Link](https://kultivi.com/cursos/idiomas/frances)| Você vai aprender francês nos níveis básico, intermediário e avançado, incluindo gramática, vocabulário, pronúncia e situações do dia a dia. |
+| GINEAD | Francês Intermediário | [Link](https://www.ginead.com.br/curso/curso-de-frances-intermediario)| Você vai aprender o básico do francês: pronúncia, verbos essenciais, números, alfabeto, cores, dias da semana, meses, como fazer perguntas e falar sobre o tempo e a hora. |
 
 
 ## Inteligência Artificial
