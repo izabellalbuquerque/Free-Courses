@@ -574,6 +574,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 |----------|---------------|------|-----------|
 | Unicamp | UX e UI Design | [Link](https://moocs.ggte.unicamp.br/course/ux-e-ui-design/intro) | Curso gratuito da Unicamp sobre UX e UI Design. |
 | Udemy | UX para quem (ainda) não é de UX | [Link](https://www.udemy.com/course/ux-para-quem-ainda-nao-e-de-ux/)| Você vai aprender os fundamentos de UX, perfil do profissional da área, tipos de pesquisa com usuários, criação de personas e jornadas, ideação, prototipagem e testes de usabilidade.|
+| Udemy | Introdução ao Design UX/UI | [Link](https://www.udemy.com/course/introducao-ao-design-uxui/)| Você vai aprender os fundamentos de UX e UI, técnicas de pesquisa com usuários, testes de usabilidade e cases práticos da área.|
 
 ## Word
 
