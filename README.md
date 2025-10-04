@@ -373,6 +373,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | GINEAD | Android para Iniciantes | [Link](https://ginead.com.br/curso/curso-android-para-iniciantes) | Aprenda a configurar o Android Studio, criar apps básicos, usar componentes e executar no emulador e smartphone. |
 | Unicamp | Programação Android | [Link](https://moocs.ggte.unicamp.br/course/android/intro) | Curso gratuito da Unicamp sobre programação Android. |
 | Udemy | Início ao Desenvolvimento de Aplicativos Android com Kotlin | [Link](https://www.udemy.com/course/desenvolvedor-kotlin-iniciante/) | Você vai aprender os fundamentos da linguagem Kotlin, incluindo variáveis, funções, estruturas condicionais e orientação a objetos. |
+| Udemy | Aprenda o básico da linguagem Kotlin | [Link](https://www.udemy.com/course/kotlin-aprenda-do-zero-modulo-basico/) | Você vai aprender os fundamentos de Kotlin, incluindo variáveis, estruturas de controle, funções, listas e orientação a objetos. |
 
 ## Laravel
 
