@@ -216,6 +216,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
+| Udemy | A Entrevista Perfeita - Curso Gratuito para Profissionais | [Link](https://www.udemy.com/course/a-entrevista-perfeita-treinamento-para-entrevistas/) | Você vai aprender a se preparar para entrevistas, apresentar-se com confiança, responder perguntas comuns e impressionar recrutadores. |
 | Udemy | Solte a Língua: English Job Interview Course | [Link](https://www.udemy.com/course/soltealingua_englishjobinterviewcourse/) | Você vai aprender a se apresentar, responder perguntas de entrevistas em inglês e usar vocabulário e expressões profissionais com confiança. |
 
 ## Estruturas de Dados
