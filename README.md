@@ -197,6 +197,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | Udemy | Introdução ao DevOps | [Link](https://www.udemy.com/course/curso-de-introducao-ao-devops/) | Você vai aprender os fundamentos de DevOps, como aplicar na prática, analisar necessidades dos clientes, precificar serviços, estudar cases reais e projetar seu próprio negócio. |
+| Udemy | MasterClass Docker para Devs | [Link](https://www.udemy.com/course/masterclass-docker-para-devs/) | Você vai aprender Docker na prática: criar e gerenciar contêineres, usar Docker Compose, aplicar em produção e integrar com CI/CD. |
 
 ## Engenharia de Dados
 
