@@ -184,6 +184,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Ginead | AWS e Laravel - Configurando um servidor EC2 Amazon | [Link](https://ginead.com.br/curso/curso-aws-e-laravel-configurando-um-servidor-ec2-amazon)| Você vai aprender a configurar um servidor AWS com LAMP e usar Laravel com banco de dados.|
 | Udemy | Guia de certificações AWS - Cloud Practitioner e Architect | [Link](https://udemy.com/course/curso-base-gratuito-certificacoes-aws-clf-c02-e-saa-c03-pt-br/) | Você vai aprender os conceitos das certificações AWS, conhecer serviços essenciais, aplicar dicas de estudo e praticar com questões comentadas.|
 | Udemy | Google Cloud Platform para Iniciantes | [Link](https://www.udemy.com/course/google-cloud-platform-gcp-para-iniciantes/) | Você vai aprender os fundamentos do Google Cloud (GCP): criar conta, provisionar máquinas virtuais, conhecer os principais serviços de rede e computação na plataforma.|
+| Udemy | AWS para Iniciantes - Aprenda e Domine a nuvem Amazon | [Link](https://www.udemy.com/course/mini-curso-amazon-aws-para-iniciantes/) | Você vai aprender a criar sua primeira máquina virtual (VM) na AWS, configurando rede, armazenamento e segurança, de maneira prática e passo a passo.|
 
 ## Design de Jogos
 
