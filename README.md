@@ -177,8 +177,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Up Cursos | Cibersegurança | [Link](https://upcursosgratis.com.br/curso-online-gratis/ciberseguranca) | Você vai aprender fundamentos de segurança da informação, criptografia, firewall, auditoria e boas práticas para manter sistemas seguros. |
 | Udemy | Segurança da Informação para Iniciantes na Prática | [Link](https://www.udemy.com/course/seguranca-da-informacao-para-iniciante
 s-na-pratica/) | Você vai aprender noções básicas de segurança digital, como evitar ameaças e fraudes online e usar ferramentas gratuitas para proteger seus dados. |
-| Udemy | Fundamentos de Segurança Cibernética e de Dados | [Link]([https://www.udemy.com/course/seguranca-da-informacao-para-iniciante
-s-na-pratica/](https://www.udemy.com/course/fundamentos-de-seguranca-cibernetica-e-de-dados/) | Você vai aprender o básico de segurança cibernética e privacidade de dados: tipos de ataques, proteção de informações, controle de acesso e como responder quando algo dá errado. |
+| Udemy | Fundamentos de Segurança Cibernética e de Dados | [Link]([https://www.udemy.com/course/seguranca-da-informacao-para-iniciantes-na-pratica/](https://www.udemy.com/course/fundamentos-de-seguranca-cibernetica-e-de-dados/) | Você vai aprender o básico de segurança cibernética e privacidade de dados: tipos de ataques, proteção de informações, controle de acesso e como responder quando algo dá errado. |
 
 ## Cloud / AWS
 
