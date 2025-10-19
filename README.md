@@ -465,6 +465,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Introdução ao PHP: Do Básico ao Intermediário | [Link](https://www.udemy.com/course/php-do-basico-ao-intermediario/) | Curso prático de PHP do básico ao intermediário. |
 | YouTube (Clube Full-Stack) | PHP para Iniciantes | [Link](https://www.youtube.com/watch?v=mRogW0vMJuI) | Curso completo de PHP para iniciantes. |
 | Udemy |  Introdução ao PHP orientado a objetos | [Link](https://www.udemy.com/course/php-orientado-a-objetos/) | Você vai aprender PHP orientado a objetos, incluindo classes, objetos, herança, encapsulamento e MVC. |
+| Udemy |  Introdução à Criação de Sites Dinâmicos com PHP | [Link](https://www.udemy.com/course/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) | Você vai aprender a criar páginas web dinâmicas com PHP e MySQL, manipulando formulários e dados. |
 
 ## Power Apps
 
