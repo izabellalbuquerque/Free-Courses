@@ -187,6 +187,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Google Cloud Platform para Iniciantes | [Link](https://www.udemy.com/course/google-cloud-platform-gcp-para-iniciantes/) | Você vai aprender os fundamentos do Google Cloud (GCP): criar conta, provisionar máquinas virtuais, conhecer os principais serviços de rede e computação na plataforma.|
 | Udemy | AWS para Iniciantes - Aprenda e Domine a nuvem Amazon | [Link](https://www.udemy.com/course/mini-curso-amazon-aws-para-iniciantes/) | Você vai aprender a criar sua primeira máquina virtual (VM) na AWS, configurando rede, armazenamento e segurança, de maneira prática e passo a passo.|
 | Udemy | Fundamentos Cloud Backup | [Link](https://www.udemy.com/course/fundamentos-cloud-backup/) | Você vai aprender os conceitos básicos de backup em nuvem: tipos de soluções, como escolher o nível ideal para seu cenário, detalhes ocultos, requisitos legais (LGPD), custos e como restaurar dados.|
+| Udemy | AWS Cloud Practitioner - Dicas de Como Passar no Exame | [Link](https://www.udemy.com/course/aws-cloud-practitioner-simulado-dicas-de-aprovacao/) | Você vai se preparar para a certificação AWS Cloud Practitioner com simulados, dicas e revisão dos principais serviços da AWS. |
 
 ## Design de Jogos
 
