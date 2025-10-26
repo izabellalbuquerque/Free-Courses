@@ -66,6 +66,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [React](#react)
 - [Redes](#redes)
 - [Ruby](#ruby)
+- [Soft Skills](#soft-skills)
 - [Spring Boot](#spring-boot)
 - [SQL](#sql)
 - [Swift (iOS)](#swift-ios)
@@ -535,6 +536,11 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Cursa | Curso de Ruby Completo | [Link](https://cursa.com.br/home/course/curso-de-ruby-completo/148) | Aprenda Ruby em 10 aulas práticas com um projeto final. |
 | Udemy | Ruby para Iniciantes | [Link](https://www.udemy.com/course/ruby-para-iniciantes/) | Curso de Ruby para iniciantes. |
 | Cursou | Curso de Ruby | [Link](https://www.cursou.com.br/informatica/ruby/) | Curso de programação em Ruby. |
+
+## Soft Skills
+
+| Provedor | Nome do Curso | Link | Descrição |
+| Udemy | Seu 1º Emprego em TI | [Link](https://www.udemy.com/course/sua-vaga-de-emprego-de-ti/) | Você vai se preparar para o seu primeiro emprego ou estágio em TI, criando um currículo atrativo, se destacando em entrevistas e entendendo como se posicionar no mercado para conquistar oportunidades. |
 
 ## Spring Boot
 
