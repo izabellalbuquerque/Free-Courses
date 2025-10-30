@@ -210,6 +210,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Provedor | Nome do Curso | Link | Descrição |
 |----------|---------------|------|-----------|
 | Udemy | Introdução à Engenharia de Dados | [Link](https://www.udemy.com/course/introducao-a-engenharia-de-dados/) | Você vai aprender os fundamentos para coletar, armazenar e processar dados, além de criar pipelines e lidar com grandes volumes de informação. |
+| Udemy | Curso prático de Engenharia de Dados na AWS | [Link](https://www.udemy.com/course/curso-pratico-de-engenharia-de-dados-na-aws/) | Você vai aprender a montar pipelines de dados na AWS, unindo coleta, armazenamento, processamento e consulta de dados usando seus serviços. |
 
 ## Engenharia de Software
 
