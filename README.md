@@ -59,6 +59,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [Node.js](#nodejs)
 - [N8N](#n8n)
 - [PHP](#php)
+- [Portugol](#portugol)
 - [Power Apps](#power-apps)
 - [Power BI](#power-bi)
 - [Python](#python)
@@ -469,6 +470,12 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | YouTube (Clube Full-Stack) | PHP para Iniciantes | [Link](https://www.youtube.com/watch?v=mRogW0vMJuI) | Curso completo de PHP para iniciantes. |
 | Udemy |  Introdução ao PHP orientado a objetos | [Link](https://www.udemy.com/course/php-orientado-a-objetos/) | Você vai aprender PHP orientado a objetos, incluindo classes, objetos, herança, encapsulamento e MVC. |
 | Udemy |  Introdução à Criação de Sites Dinâmicos com PHP | [Link](https://www.udemy.com/course/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) | Você vai aprender a criar páginas web dinâmicas com PHP e MySQL, manipulando formulários e dados. |
+
+## Portugol
+
+| Provedor | Nome do Curso | Link | Descrição |
+|----------|---------------|------|-----------|
+| Udemy | Lógica de Programação com Portugol | [Link](https://www.udemy.com/course/curso-pratico-de-logica-de-programacao-com-portugol/) | Você vai aprender lógica de programação do zero com Portugol, entendendo variáveis, operadores, condições, repetições, vetores e funções de forma simples e prática. |
 
 ## Power Apps
 
