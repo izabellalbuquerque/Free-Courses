@@ -516,6 +516,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Udemy | Python | [Link](https://www.udemy.com/course/aprenda-python-guia-iniciante/)| Você vai aprender os fundamentos da programação com Python, incluindo variáveis, estruturas condicionais, loops, funções e manipulação de listas. |
 | Suprema UX | Curso gratuito: Python - Do básico ao Avançado | [Link](https://supremaux.com/curso-gratuito-de-python-do-basico-ao-avancado/)| Você vai aprender Python do básico ao avançado, incluindo conceitos fundamentais, estruturas de programação, manipulação de dados e criação de projetos práticos. |
 | Udemy | Introdução enxuta ao Python | [Link](https://www.udemy.com/course/introducao-enxuta-ao-python/)| Você vai aprender os fundamentos da linguagem Python, incluindo variáveis, estruturas condicionais, loops, funções, listas e dicionários. |
+| Cursa | Analista de Dados com Python e as bibliotecas Numpy e Pandas | [Link](https://cursa.com.br/home/course/curso-analista-de-dados-python-numpy-pandas/443)| Você vai aprender a usar Python junto com as bibliotecas Numpy e Pandas para coletar, limpar, manipular e analisar dados de forma eficiente. |
 
 ## QA - Testes de Software
 
