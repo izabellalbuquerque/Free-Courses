@@ -21,6 +21,7 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 - [Análise de Dados](#análise-de-dados)
 - [Android](#android)
 - [AngularJS](#angularjs)
+- [Big Data](#big-data)
 - [Business Intelligence](#business-intelligence)
 - [C#](#c)
 - [C++](#c-1)
@@ -107,6 +108,11 @@ Todos os cursos são oferecidos por plataformas confiáveis e muitos deles inclu
 | Codecademy | AngularJS 1.X | [Link](https://www.codecademy.com/learn/learn-angularjs) | Aprenda a criar aplicações web dinâmicas com AngularJS 1.X, usando o padrão MVC, directives, services e routing, por meio de projetos práticos e interativos. |
 | Udemy | Angular 9 Essencial | [Link](https://www.udemy.com/course/angular-9-essencial/) | Você vai aprender os fundamentos do Angular 9: como instalar, configurar e desenvolver aplicações com componentes, diretivas, rotas, formulários e consumo de APIs REST. |
 
+## Big Data
+
+| Provedor | Nome do Curso | Link | Descrição |
+|----------|---------------|------|-----------|
+| Cursa | Big Data | [Link](https://cursa.com.br/home/course/curso-de-big-data/218) | Você vai aprender os conceitos de Big Data e como usar ferramentas como o Apache Spark para processar e analisar grandes volumes de dados. |
 
 ## Business Intelligence
 
